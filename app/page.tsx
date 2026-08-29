@@ -18,7 +18,7 @@ export default function Home(){
  const watchedDecades=new Set(anime.filter(i=>watched.has(i.id)).map(i=>Math.floor(i.year/10)*10)).size;
  const randomUnseen=()=>{const pool=anime.filter(i=>!watched.has(i.id));if(!pool.length)return;const pick=pool[Math.floor(Math.random()*pool.length)];setQuery(pick.title);setWatchFilter("全部作品");setDecade("全部");setRank("全部级别");setGenre("全部类型");setLimit(18)};
  return <main>
-  <header className="site-header"><a className="brand" href="#top" aria-label="动画全景首页"><span>ANIME</span><b>PANORAMA</b></a><nav aria-label="主导航"><a className="active" href="#top">总览</a><a href="#archive">目录</a><a href="#method">方法</a></nav><a className="header-cta" href="#archive">开始探索 ↘</a></header>
+  <header className="site-header"><a className="brand" href="#top" aria-label="动画全景首页"><span>ANIME</span><b>PANORAMA</b></a><nav aria-label="主导航"><a className="active" href="#top">总览</a><a href="#archive">目录</a><a href="#method">方法</a><a href="https://github.com/aiiierrrr16-art" target="_blank" rel="noreferrer">GitHub ↗</a></nav><a className="header-cta" href="#archive">开始探索 ↘</a></header>
   <section className="hero" id="top"><div className="hero-copy"><p className="eyebrow">日本动画文化档案 · EST. 1963</p><h1>一张跨越<br/><em>六十年</em>的<br/>动画文化地图</h1><p className="hero-intro">从电视动画黎明，到OVA黄金期与流媒体时代。不是评分榜，而是按年代、类型与影响力整理的日本动画全景目录。</p><a className="button mint" href="#archive">浏览完整目录 <span>→</span></a></div><div className="hero-board" aria-label="目录关键统计"><div className="stat blue"><strong>393</strong><span>部／系列</span></div><div className="stat coral"><strong>64</strong><span>年跨度</span></div><div className="stat mint"><strong>70+</strong><span>类型标签</span></div><div className="stat yellow"><strong>S—C</strong><span>影响力分级</span></div><div className="stamp">ARCHIVE<br/>NO. 001</div></div></section>
   <div className="marquee" aria-hidden="true"><div>国民动画 ★ 作者表达 ★ 类型革命 ★ 全球传播 ★ 时代记忆 ★ 国民动画 ★ 作者表达 ★ 类型革命 ★ 全球传播 ★ 时代记忆 ★</div></div>
   <section className="archive" id="archive"><div className="section-heading light"><span>01 / THE ARCHIVE</span><h2>探索全部作品</h2><p>搜索作品名或入选理由，也可以组合年代、类型和影响力级别。</p></div>
@@ -30,6 +30,6 @@ export default function Home(){
    {!anime.length&&<p className="loading">正在展开档案…</p>}{!!anime.length&&!filtered.length&&<div className="empty"><strong>没有匹配项</strong><p>换一个关键词，或清除部分筛选条件。</p><button onClick={reset}>重置目录</button></div>}{limit<filtered.length&&<button className="load-more" onClick={()=>setLimit(limit+18)}>继续展开 · {filtered.length-limit} 条待查看 ↓</button>}
   </section>
   <section className="method" id="method"><div><span>02 / METHOD</span><h2>这不是<br/>评分排行榜。</h2></div><div className="method-copy"><p>入选依据综合日本本土认知、海外传播、商业影响、类型创新、创作者影响与长期口碑。系列原则上合并；独立历史意义明确的电影或版本单列。</p><div className="rank-list"><b>S 世界级／改变类型</b><b>A 现象级／一线名作</b><b>B 类型经典／圈层核心</b><b>C 特定时期的重要补充</b></div><small>2025—2026年的新作标记为“观察中”，历史地位将持续复核。</small></div></section>
-  <footer><div className="brand footer-brand"><span>ANIME</span><b>PANORAMA</b></div><p>日本知名动漫全景目录<br/>版本 2026.08.29</p><a href="#top">回到顶部 ↑</a></footer>
+  <footer><div className="brand footer-brand"><span>ANIME</span><b>PANORAMA</b></div><p>日本知名动漫全景目录<br/>版本 2026.08.29</p><div className="footer-links"><a href="https://github.com/aiiierrrr16-art" target="_blank" rel="noreferrer">GitHub ↗</a><a href="#top">回到顶部 ↑</a></div></footer>
  </main>
 }
