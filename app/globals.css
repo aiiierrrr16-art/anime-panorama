@@ -12,3 +12,5 @@
 .watch-tabs button:nth-child(3){border-color:var(--blue);color:var(--blue)}
 .watch-tabs button:nth-child(3).selected{background:var(--blue);color:var(--ink)}
 .must-badge.recommended{background:#fff;color:var(--ink)}
+.card-actions{display:grid;grid-template-columns:1fr auto;gap:8px;margin-top:18px}.card-actions .watched-toggle{margin-top:0}.google-link{display:flex;align-items:center;justify-content:center;border:3px solid var(--ink);background:var(--yellow);padding:9px 12px;font-size:12px;font-weight:900;text-align:center}.google-link:hover{background:#fff}.card-actions .watched-toggle{min-width:0}
+@media(max-width:580px){.card-actions{grid-template-columns:1fr}.google-link{min-height:48px}}
