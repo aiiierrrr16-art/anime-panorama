@@ -8,7 +8,7 @@ function decadeMatch(year:number,label:string){if(label==="全部")return true;i
 
 export default function Home(){
  const[anime,setAnime]=useState<Anime[]>([]),[query,setQuery]=useState(""),[decade,setDecade]=useState("全部"),[rank,setRank]=useState("全部级别"),[genre,setGenre]=useState("全部类型");const[limit,setLimit]=useState(18);const[watchFilter,setWatchFilter]=useState("全部作品");const[watched,setWatched]=useState<Set<number>>(new Set());const[ready,setReady]=useState(false);
- useEffect(()=>{fetch("/anime.json").then(r=>r.json()).then(setAnime)},[]);
+ useEffect(()=>{fetch("./anime.json").then(r=>r.json()).then(setAnime)},[]);
  useEffect(()=>{try{const saved=JSON.parse(localStorage.getItem("anime-panorama-watched")||"[]");setWatched(new Set(saved))}finally{setReady(true)}},[]);
  useEffect(()=>{if(ready)localStorage.setItem("anime-panorama-watched",JSON.stringify([...watched]))},[watched,ready]);
  const genres=useMemo(()=>{const c=new Map<string,number>();anime.forEach(i=>i.genres.forEach(t=>c.set(t,(c.get(t)||0)+1)));return[...c.entries()].sort((a,b)=>b[1]-a[1]).slice(0,18).map(x=>x[0])},[anime]);
