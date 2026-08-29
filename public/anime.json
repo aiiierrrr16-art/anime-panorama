@@ -1,0 +1,4686 @@
+[
+  {
+    "id": 1,
+    "year": 1963,
+    "title": "铁臂阿童木",
+    "genres": [
+      "科幻",
+      "机器人"
+    ],
+    "rank": "S",
+    "note": "奠定日本电视动画工业模式的国民级先驱",
+    "watch": false
+  },
+  {
+    "id": 2,
+    "year": 1963,
+    "title": "森林大帝",
+    "genres": [
+      "动物",
+      "成长"
+    ],
+    "rank": "A",
+    "note": "手冢治虫代表作，日本彩色电视动画的重要先驱",
+    "watch": false
+  },
+  {
+    "id": 3,
+    "year": 1963,
+    "title": "铁人28号",
+    "genres": [
+      "机器人",
+      "冒险"
+    ],
+    "rank": "A",
+    "note": "巨大机器人动画的早期原型",
+    "watch": false
+  },
+  {
+    "id": 4,
+    "year": 1965,
+    "title": "Q太郎",
+    "genres": [
+      "儿童",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "藤子不二雄早期国民喜剧代表",
+    "watch": false
+  },
+  {
+    "id": 5,
+    "year": 1966,
+    "title": "魔法使莎莉",
+    "genres": [
+      "魔法少女"
+    ],
+    "rank": "A",
+    "note": "确立早期魔法少女类型范式",
+    "watch": false
+  },
+  {
+    "id": 6,
+    "year": 1966,
+    "title": "奥特Q／奥特曼系列",
+    "genres": [
+      "特摄关联",
+      "科幻"
+    ],
+    "rank": "S",
+    "note": "虽以特摄为主，却深刻影响日本动画英雄叙事",
+    "watch": false
+  },
+  {
+    "id": 7,
+    "year": 1967,
+    "title": "马赫GoGoGo",
+    "genres": [
+      "赛车",
+      "冒险"
+    ],
+    "rank": "A",
+    "note": "以《Speed Racer》之名走向海外",
+    "watch": false
+  },
+  {
+    "id": 8,
+    "year": 1967,
+    "title": "缎带骑士",
+    "genres": [
+      "少女",
+      "冒险"
+    ],
+    "rank": "A",
+    "note": "早期少女英雄与性别身份叙事代表",
+    "watch": false
+  },
+  {
+    "id": 9,
+    "year": 1968,
+    "title": "鬼太郎",
+    "genres": [
+      "妖怪",
+      "民俗"
+    ],
+    "rank": "S",
+    "note": "让日本妖怪文化进入大众娱乐核心",
+    "watch": false
+  },
+  {
+    "id": 10,
+    "year": 1968,
+    "title": "巨人之星",
+    "genres": [
+      "运动",
+      "棒球"
+    ],
+    "rank": "S",
+    "note": "热血体育动画的奠基作",
+    "watch": false
+  },
+  {
+    "id": 11,
+    "year": 1968,
+    "title": "太阳王子霍尔斯的大冒险",
+    "genres": [
+      "电影",
+      "奇幻"
+    ],
+    "rank": "B",
+    "note": "高畑勋与宫崎骏早期创作的重要节点",
+    "watch": false
+  },
+  {
+    "id": 12,
+    "year": 1969,
+    "title": "海螺小姐",
+    "genres": [
+      "家庭",
+      "日常"
+    ],
+    "rank": "S",
+    "note": "日本播出时间最长的国民家庭动画",
+    "watch": false
+  },
+  {
+    "id": 13,
+    "year": 1969,
+    "title": "甜蜜小天使",
+    "genres": [
+      "魔法少女"
+    ],
+    "rank": "A",
+    "note": "早期变身少女经典",
+    "watch": false
+  },
+  {
+    "id": 14,
+    "year": 1969,
+    "title": "虎面人",
+    "genres": [
+      "格斗",
+      "摔角"
+    ],
+    "rank": "A",
+    "note": "体育、孤儿与社会现实结合的代表",
+    "watch": false
+  },
+  {
+    "id": 15,
+    "year": 1970,
+    "title": "明日之丈",
+    "genres": [
+      "运动",
+      "拳击"
+    ],
+    "rank": "S",
+    "note": "日本动画史上最具悲剧力量的青春作品之一",
+    "watch": false
+  },
+  {
+    "id": 16,
+    "year": 1971,
+    "title": "鲁邦三世",
+    "genres": [
+      "犯罪",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "成年向娱乐动画与怪盗文化标志",
+    "watch": false
+  },
+  {
+    "id": 17,
+    "year": 1972,
+    "title": "恶魔人",
+    "genres": [
+      "黑暗奇幻"
+    ],
+    "rank": "S",
+    "note": "对后世黑暗英雄与末世叙事影响巨大",
+    "watch": false
+  },
+  {
+    "id": 18,
+    "year": 1972,
+    "title": "科学忍者队",
+    "genres": [
+      "科幻",
+      "战队"
+    ],
+    "rank": "A",
+    "note": "团队英雄动画与海外传播经典",
+    "watch": false
+  },
+  {
+    "id": 19,
+    "year": 1972,
+    "title": "熊猫家族",
+    "genres": [
+      "电影",
+      "家庭"
+    ],
+    "rank": "B",
+    "note": "高畑勋、宫崎骏合作的温暖前奏",
+    "watch": false
+  },
+  {
+    "id": 20,
+    "year": 1973,
+    "title": "哆啦A梦",
+    "genres": [
+      "儿童",
+      "科幻"
+    ],
+    "rank": "S",
+    "note": "东亚最具影响力的国民动画之一",
+    "watch": false
+  },
+  {
+    "id": 21,
+    "year": 1973,
+    "title": "网球甜心",
+    "genres": [
+      "少女",
+      "运动"
+    ],
+    "rank": "A",
+    "note": "少女运动动画的重要奠基作",
+    "watch": false
+  },
+  {
+    "id": 22,
+    "year": 1973,
+    "title": "甜心战士",
+    "genres": [
+      "动作",
+      "魔法少女"
+    ],
+    "rank": "A",
+    "note": "变身、战斗与性感英雄形象的早期融合",
+    "watch": false
+  },
+  {
+    "id": 23,
+    "year": 1974,
+    "title": "宇宙战舰大和号",
+    "genres": [
+      "太空歌剧"
+    ],
+    "rank": "S",
+    "note": "推动青年观众与动画迷文化形成",
+    "watch": false
+  },
+  {
+    "id": 24,
+    "year": 1974,
+    "title": "阿尔卑斯山的少女",
+    "genres": [
+      "儿童文学"
+    ],
+    "rank": "S",
+    "note": "高畑勋、宫崎骏现实主义动画里程碑",
+    "watch": false
+  },
+  {
+    "id": 25,
+    "year": 1975,
+    "title": "佛兰德斯的狗",
+    "genres": [
+      "儿童文学"
+    ],
+    "rank": "A",
+    "note": "世界名作剧场最著名的催泪经典之一",
+    "watch": false
+  },
+  {
+    "id": 26,
+    "year": 1975,
+    "title": "一休和尚",
+    "genres": [
+      "儿童",
+      "历史"
+    ],
+    "rank": "S",
+    "note": "在中国等亚洲地区影响深远",
+    "watch": false
+  },
+  {
+    "id": 27,
+    "year": 1975,
+    "title": "钢铁杰克",
+    "genres": [
+      "机器人"
+    ],
+    "rank": "B",
+    "note": "永井豪系超级机器人代表",
+    "watch": false
+  },
+  {
+    "id": 28,
+    "year": 1975,
+    "title": "时间飞船",
+    "genres": [
+      "科幻",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "龙之子“时间飞船”系列开端",
+    "watch": false
+  },
+  {
+    "id": 29,
+    "year": 1976,
+    "title": "寻母三千里",
+    "genres": [
+      "儿童文学"
+    ],
+    "rank": "A",
+    "note": "高畑勋执导的现实主义成长名作",
+    "watch": false
+  },
+  {
+    "id": 30,
+    "year": 1976,
+    "title": "大空魔龙凯王",
+    "genres": [
+      "机器人"
+    ],
+    "rank": "B",
+    "note": "超级机器人时代的代表之一",
+    "watch": false
+  },
+  {
+    "id": 31,
+    "year": 1976,
+    "title": "无敌飞天侠",
+    "genres": [
+      "机器人"
+    ],
+    "rank": "B",
+    "note": "早期合体机器人动画代表",
+    "watch": false
+  },
+  {
+    "id": 32,
+    "year": 1977,
+    "title": "咪咪流浪记",
+    "genres": [
+      "儿童文学"
+    ],
+    "rank": "A",
+    "note": "经典文学改编与童年记忆",
+    "watch": false
+  },
+  {
+    "id": 33,
+    "year": 1977,
+    "title": "浣熊拉斯卡尔",
+    "genres": [
+      "儿童文学"
+    ],
+    "rank": "A",
+    "note": "世界名作剧场代表",
+    "watch": false
+  },
+  {
+    "id": 34,
+    "year": 1977,
+    "title": "超合体魔术机器人",
+    "genres": [
+      "机器人"
+    ],
+    "rank": "B",
+    "note": "合体机器人热潮名作",
+    "watch": false
+  },
+  {
+    "id": 35,
+    "year": 1978,
+    "title": "未来少年柯南",
+    "genres": [
+      "科幻",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "宫崎骏电视动画导演代表作",
+    "watch": false
+  },
+  {
+    "id": 36,
+    "year": 1978,
+    "title": "银河铁道999",
+    "genres": [
+      "科幻",
+      "旅行"
+    ],
+    "rank": "S",
+    "note": "松本零士宇宙浪漫主义巅峰之一",
+    "watch": false
+  },
+  {
+    "id": 37,
+    "year": 1978,
+    "title": "宝岛",
+    "genres": [
+      "冒险",
+      "文学"
+    ],
+    "rank": "A",
+    "note": "出崎统风格鲜明的文学改编名作",
+    "watch": false
+  },
+  {
+    "id": 38,
+    "year": 1978,
+    "title": "宇宙海盗哈洛克",
+    "genres": [
+      "太空歌剧"
+    ],
+    "rank": "A",
+    "note": "孤独浪漫的宇宙英雄经典",
+    "watch": false
+  },
+  {
+    "id": 39,
+    "year": 1979,
+    "title": "机动战士高达",
+    "genres": [
+      "真实系机器人"
+    ],
+    "rank": "S",
+    "note": "重塑机器人动画与御宅文化的核心作品",
+    "watch": false
+  },
+  {
+    "id": 40,
+    "year": 1979,
+    "title": "凡尔赛玫瑰",
+    "genres": [
+      "历史",
+      "少女"
+    ],
+    "rank": "S",
+    "note": "少女漫画动画化与女性历史叙事丰碑",
+    "watch": false
+  },
+  {
+    "id": 41,
+    "year": 1979,
+    "title": "花仙子",
+    "genres": [
+      "魔法少女"
+    ],
+    "rank": "A",
+    "note": "中国观众熟悉的早期少女动画",
+    "watch": false
+  },
+  {
+    "id": 42,
+    "year": 1979,
+    "title": "红发安妮",
+    "genres": [
+      "儿童文学"
+    ],
+    "rank": "A",
+    "note": "高畑勋现实主义演出代表",
+    "watch": false
+  },
+  {
+    "id": 43,
+    "year": 1980,
+    "title": "汤姆历险记",
+    "genres": [
+      "儿童文学"
+    ],
+    "rank": "B",
+    "note": "世界名作剧场经典",
+    "watch": false
+  },
+  {
+    "id": 44,
+    "year": 1980,
+    "title": "传说巨神伊迪安",
+    "genres": [
+      "机器人",
+      "末世"
+    ],
+    "rank": "A",
+    "note": "富野由悠季黑暗宇宙叙事代表",
+    "watch": false
+  },
+  {
+    "id": 45,
+    "year": 1980,
+    "title": "怪物小王子",
+    "genres": [
+      "儿童",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "藤子不二雄A国民漫画改编",
+    "watch": false
+  },
+  {
+    "id": 46,
+    "year": 1981,
+    "title": "福星小子",
+    "genres": [
+      "科幻",
+      "恋爱喜剧"
+    ],
+    "rank": "S",
+    "note": "高桥留美子与宅文化早期标志",
+    "watch": false
+  },
+  {
+    "id": 47,
+    "year": 1981,
+    "title": "阿拉蕾",
+    "genres": [
+      "科幻",
+      "搞笑"
+    ],
+    "rank": "S",
+    "note": "鸟山明成名作与亚洲童年记忆",
+    "watch": false
+  },
+  {
+    "id": 48,
+    "year": 1981,
+    "title": "六神合体",
+    "genres": [
+      "机器人"
+    ],
+    "rank": "A",
+    "note": "中国观众熟悉的合体机器人经典",
+    "watch": false
+  },
+  {
+    "id": 49,
+    "year": 1982,
+    "title": "超时空要塞Macross",
+    "genres": [
+      "机器人",
+      "音乐"
+    ],
+    "rank": "S",
+    "note": "把战争、偶像与三角恋合为一体",
+    "watch": false
+  },
+  {
+    "id": 50,
+    "year": 1982,
+    "title": "太阳之牙达格拉姆",
+    "genres": [
+      "真实系机器人"
+    ],
+    "rank": "A",
+    "note": "政治与殖民议题突出的硬派机甲作",
+    "watch": false
+  },
+  {
+    "id": 51,
+    "year": 1982,
+    "title": "眼镜蛇",
+    "genres": [
+      "太空冒险"
+    ],
+    "rank": "A",
+    "note": "成人气质浓厚的太空歌剧经典",
+    "watch": false
+  },
+  {
+    "id": 52,
+    "year": 1983,
+    "title": "足球小将",
+    "genres": [
+      "运动",
+      "足球"
+    ],
+    "rank": "S",
+    "note": "全球足球少年文化的重要启蒙作品",
+    "watch": false
+  },
+  {
+    "id": 53,
+    "year": 1983,
+    "title": "猫眼三姐妹",
+    "genres": [
+      "犯罪",
+      "爱情"
+    ],
+    "rank": "S",
+    "note": "北条司都市美学与怪盗题材代表",
+    "watch": false
+  },
+  {
+    "id": 54,
+    "year": 1983,
+    "title": "装甲骑兵VOTOMS",
+    "genres": [
+      "真实系机器人"
+    ],
+    "rank": "A",
+    "note": "硬派军事机甲动画经典",
+    "watch": false
+  },
+  {
+    "id": 55,
+    "year": 1983,
+    "title": "魔法小天使",
+    "genres": [
+      "魔法少女",
+      "偶像"
+    ],
+    "rank": "A",
+    "note": "魔法少女与偶像成长结合的代表",
+    "watch": false
+  },
+  {
+    "id": 56,
+    "year": 1984,
+    "title": "龙珠",
+    "genres": [
+      "热血",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "全球最具影响力的少年战斗动画之一",
+    "watch": false
+  },
+  {
+    "id": 57,
+    "year": 1984,
+    "title": "北斗神拳",
+    "genres": [
+      "末世",
+      "格斗"
+    ],
+    "rank": "S",
+    "note": "硬派格斗与末世英雄美学标志",
+    "watch": false
+  },
+  {
+    "id": 58,
+    "year": 1984,
+    "title": "风之谷",
+    "genres": [
+      "电影",
+      "生态奇幻"
+    ],
+    "rank": "S",
+    "note": "宫崎骏世界观与生态思想的核心作品",
+    "watch": false
+  },
+  {
+    "id": 59,
+    "year": 1984,
+    "title": "超时空要塞：可曾记得爱",
+    "genres": [
+      "电影",
+      "机甲音乐"
+    ],
+    "rank": "S",
+    "note": "日本商业动画电影美学高峰之一",
+    "watch": false
+  },
+  {
+    "id": 60,
+    "year": 1984,
+    "title": "玻璃假面",
+    "genres": [
+      "少女",
+      "戏剧"
+    ],
+    "rank": "A",
+    "note": "表演竞技与女性成长长青经典",
+    "watch": false
+  },
+  {
+    "id": 61,
+    "year": 1984,
+    "title": "牧场上的少女卡特莉",
+    "genres": [
+      "儿童文学"
+    ],
+    "rank": "B",
+    "note": "世界名作剧场佳作",
+    "watch": false
+  },
+  {
+    "id": 62,
+    "year": 1985,
+    "title": "机动战士Z高达",
+    "genres": [
+      "真实系机器人"
+    ],
+    "rank": "S",
+    "note": "高达系列世界观与悲剧性的重要高峰",
+    "watch": false
+  },
+  {
+    "id": 63,
+    "year": 1985,
+    "title": "棒球英豪",
+    "genres": [
+      "运动",
+      "青春"
+    ],
+    "rank": "S",
+    "note": "安达充式青春与恋爱叙事代表",
+    "watch": false
+  },
+  {
+    "id": 64,
+    "year": 1985,
+    "title": "小公主莎拉",
+    "genres": [
+      "儿童文学"
+    ],
+    "rank": "A",
+    "note": "逆境成长类世界名作剧场经典",
+    "watch": false
+  },
+  {
+    "id": 65,
+    "year": 1985,
+    "title": "战区88",
+    "genres": [
+      "战争",
+      "航空"
+    ],
+    "rank": "B",
+    "note": "硬派战争OVA代表",
+    "watch": false
+  },
+  {
+    "id": 66,
+    "year": 1985,
+    "title": "天使之卵",
+    "genres": [
+      "实验",
+      "电影"
+    ],
+    "rank": "B",
+    "note": "押井守极具宗教象征性的实验动画",
+    "watch": false
+  },
+  {
+    "id": 67,
+    "year": 1986,
+    "title": "天空之城",
+    "genres": [
+      "电影",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "吉卜力冒险动画的世界级经典",
+    "watch": false
+  },
+  {
+    "id": 68,
+    "year": 1986,
+    "title": "圣斗士星矢",
+    "genres": [
+      "热血",
+      "神话"
+    ],
+    "rank": "S",
+    "note": "在中国、拉美与欧洲形成巨大影响",
+    "watch": false
+  },
+  {
+    "id": 69,
+    "year": 1986,
+    "title": "相聚一刻",
+    "genres": [
+      "爱情",
+      "生活"
+    ],
+    "rank": "S",
+    "note": "成年恋爱喜剧的长青经典",
+    "watch": false
+  },
+  {
+    "id": 70,
+    "year": 1986,
+    "title": "机动战士高达ZZ",
+    "genres": [
+      "机器人"
+    ],
+    "rank": "A",
+    "note": "宇宙世纪重要续篇",
+    "watch": false
+  },
+  {
+    "id": 71,
+    "year": 1986,
+    "title": "湘南爆走族",
+    "genres": [
+      "青春",
+      "暴走族"
+    ],
+    "rank": "B",
+    "note": "不良少年OVA文化代表",
+    "watch": false
+  },
+  {
+    "id": 72,
+    "year": 1987,
+    "title": "城市猎人",
+    "genres": [
+      "动作",
+      "都市喜剧"
+    ],
+    "rank": "S",
+    "note": "北条司都市动作美学代表",
+    "watch": false
+  },
+  {
+    "id": 73,
+    "year": 1987,
+    "title": "橙路",
+    "genres": [
+      "青春",
+      "恋爱"
+    ],
+    "rank": "A",
+    "note": "80年代青春恋爱动画标志",
+    "watch": false
+  },
+  {
+    "id": 74,
+    "year": 1987,
+    "title": "王立宇宙军",
+    "genres": [
+      "电影",
+      "科幻"
+    ],
+    "rank": "A",
+    "note": "GAINAX早期高规格原创动画",
+    "watch": false
+  },
+  {
+    "id": 75,
+    "year": 1987,
+    "title": "泡泡糖危机",
+    "genres": [
+      "赛博朋克",
+      "OVA"
+    ],
+    "rank": "A",
+    "note": "女性战队与赛博都市美学经典",
+    "watch": false
+  },
+  {
+    "id": 76,
+    "year": 1987,
+    "title": "妖兽都市",
+    "genres": [
+      "黑暗奇幻",
+      "电影"
+    ],
+    "rank": "B",
+    "note": "川尻善昭成人动画风格代表",
+    "watch": false
+  },
+  {
+    "id": 77,
+    "year": 1988,
+    "title": "龙猫",
+    "genres": [
+      "电影",
+      "治愈"
+    ],
+    "rank": "S",
+    "note": "世界范围最具辨识度的日本动画形象之一",
+    "watch": false
+  },
+  {
+    "id": 78,
+    "year": 1988,
+    "title": "萤火虫之墓",
+    "genres": [
+      "电影",
+      "战争"
+    ],
+    "rank": "S",
+    "note": "战争创伤动画电影丰碑",
+    "watch": false
+  },
+  {
+    "id": 79,
+    "year": 1988,
+    "title": "阿基拉",
+    "genres": [
+      "电影",
+      "赛博朋克"
+    ],
+    "rank": "S",
+    "note": "改变世界对日本动画认知的视觉里程碑",
+    "watch": false
+  },
+  {
+    "id": 80,
+    "year": 1988,
+    "title": "机动战士高达：逆袭的夏亚",
+    "genres": [
+      "电影",
+      "机器人"
+    ],
+    "rank": "S",
+    "note": "阿姆罗与夏亚叙事终章",
+    "watch": false
+  },
+  {
+    "id": 81,
+    "year": 1988,
+    "title": "银河英雄传说",
+    "genres": [
+      "太空歌剧",
+      "政治"
+    ],
+    "rank": "S",
+    "note": "宏大政治与战争群像的殿堂级作品",
+    "watch": false
+  },
+  {
+    "id": 82,
+    "year": 1988,
+    "title": "魔神英雄传",
+    "genres": [
+      "机器人",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "中国观众广泛熟悉的童年经典",
+    "watch": false
+  },
+  {
+    "id": 83,
+    "year": 1989,
+    "title": "魔女宅急便",
+    "genres": [
+      "电影",
+      "成长"
+    ],
+    "rank": "S",
+    "note": "少女独立与城市生活的吉卜力经典",
+    "watch": false
+  },
+  {
+    "id": 84,
+    "year": 1989,
+    "title": "乱马1/2",
+    "genres": [
+      "格斗",
+      "恋爱喜剧"
+    ],
+    "rank": "S",
+    "note": "高桥留美子全球代表作之一",
+    "watch": false
+  },
+  {
+    "id": 85,
+    "year": 1989,
+    "title": "机动警察",
+    "genres": [
+      "机器人",
+      "职场"
+    ],
+    "rank": "S",
+    "note": "把机甲放入现实社会系统的经典",
+    "watch": false
+  },
+  {
+    "id": 86,
+    "year": 1989,
+    "title": "五星物语",
+    "genres": [
+      "科幻",
+      "电影"
+    ],
+    "rank": "B",
+    "note": "华丽机甲设计与史诗世界观的圈层神作",
+    "watch": false
+  },
+  {
+    "id": 87,
+    "year": 1990,
+    "title": "樱桃小丸子",
+    "genres": [
+      "家庭",
+      "日常"
+    ],
+    "rank": "S",
+    "note": "东亚国民级童年与家庭喜剧",
+    "watch": false
+  },
+  {
+    "id": 88,
+    "year": 1993,
+    "title": "灌篮高手",
+    "genres": [
+      "运动",
+      "篮球"
+    ],
+    "rank": "S",
+    "note": "亚洲篮球文化最具影响力的动画之一",
+    "watch": false
+  },
+  {
+    "id": 89,
+    "year": 1990,
+    "title": "蓝宝石之谜",
+    "genres": [
+      "科幻",
+      "冒险"
+    ],
+    "rank": "A",
+    "note": "庵野秀明早期电视动画代表",
+    "watch": false
+  },
+  {
+    "id": 90,
+    "year": 1990,
+    "title": "罗德斯岛战记",
+    "genres": [
+      "奇幻",
+      "OVA"
+    ],
+    "rank": "A",
+    "note": "日式西方奇幻动画的典型范本",
+    "watch": false
+  },
+  {
+    "id": 91,
+    "year": 1990,
+    "title": "樱花大战前史／樱花大战系列",
+    "genres": [
+      "蒸汽朋克",
+      "机甲"
+    ],
+    "rank": "A",
+    "note": "游戏、舞台与动画跨媒体代表",
+    "watch": false
+  },
+  {
+    "id": 92,
+    "year": 1991,
+    "title": "岁月的童话",
+    "genres": [
+      "电影",
+      "生活"
+    ],
+    "rank": "A",
+    "note": "高畑勋成年女性现实主义名作",
+    "watch": false
+  },
+  {
+    "id": 93,
+    "year": 1991,
+    "title": "娱乐金鱼眼",
+    "genres": [
+      "少女",
+      "喜剧"
+    ],
+    "rank": "B",
+    "note": "90年代少女搞笑动画记忆",
+    "watch": false
+  },
+  {
+    "id": 94,
+    "year": 1991,
+    "title": "横山光辉三国志",
+    "genres": [
+      "历史",
+      "战争"
+    ],
+    "rank": "A",
+    "note": "东亚观众熟悉的三国动画改编",
+    "watch": false
+  },
+  {
+    "id": 95,
+    "year": 1992,
+    "title": "美少女战士",
+    "genres": [
+      "魔法少女",
+      "战队"
+    ],
+    "rank": "S",
+    "note": "全球少女英雄文化的决定性作品",
+    "watch": false
+  },
+  {
+    "id": 96,
+    "year": 1992,
+    "title": "幽游白书",
+    "genres": [
+      "热血",
+      "灵异"
+    ],
+    "rank": "S",
+    "note": "90年代少年战斗动画高峰",
+    "watch": false
+  },
+  {
+    "id": 97,
+    "year": 1992,
+    "title": "蜡笔小新",
+    "genres": [
+      "家庭",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "日本与亚洲国民级喜剧动画",
+    "watch": false
+  },
+  {
+    "id": 98,
+    "year": 1992,
+    "title": "红猪",
+    "genres": [
+      "电影",
+      "成人寓言"
+    ],
+    "rank": "S",
+    "note": "宫崎骏最成熟浪漫的作品之一",
+    "watch": false
+  },
+  {
+    "id": 99,
+    "year": 1992,
+    "title": "天地无用！",
+    "genres": [
+      "科幻",
+      "后宫喜剧"
+    ],
+    "rank": "A",
+    "note": "OVA与后宫喜剧类型的重要作品",
+    "watch": false
+  },
+  {
+    "id": 100,
+    "year": 1993,
+    "title": "忍者乱太郎",
+    "genres": [
+      "儿童",
+      "校园"
+    ],
+    "rank": "S",
+    "note": "日本长寿儿童动画",
+    "watch": false
+  },
+  {
+    "id": 101,
+    "year": 1993,
+    "title": "听到涛声",
+    "genres": [
+      "电影",
+      "青春"
+    ],
+    "rank": "B",
+    "note": "吉卜力少见的现实青春片",
+    "watch": false
+  },
+  {
+    "id": 102,
+    "year": 1993,
+    "title": "无责任舰长",
+    "genres": [
+      "科幻",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "反英雄式太空喜剧经典",
+    "watch": false
+  },
+  {
+    "id": 103,
+    "year": 1993,
+    "title": "机动战士V高达",
+    "genres": [
+      "机器人",
+      "战争"
+    ],
+    "rank": "A",
+    "note": "宇宙世纪最黑暗篇章之一",
+    "watch": false
+  },
+  {
+    "id": 104,
+    "year": 1996,
+    "title": "名侦探柯南",
+    "genres": [
+      "推理",
+      "长篇"
+    ],
+    "rank": "S",
+    "note": "亚洲最具影响力的推理动画系列",
+    "watch": false
+  },
+  {
+    "id": 105,
+    "year": 1995,
+    "title": "新世纪福音战士",
+    "genres": [
+      "机器人",
+      "心理"
+    ],
+    "rank": "S",
+    "note": "重塑90年代后动画表达与御宅文化",
+    "watch": false
+  },
+  {
+    "id": 106,
+    "year": 1994,
+    "title": "魔法骑士",
+    "genres": [
+      "魔法少女",
+      "异世界"
+    ],
+    "rank": "A",
+    "note": "CLAMP少女冒险代表",
+    "watch": false
+  },
+  {
+    "id": 107,
+    "year": 1994,
+    "title": "机动武斗传G高达",
+    "genres": [
+      "机器人",
+      "格斗"
+    ],
+    "rank": "A",
+    "note": "高达系列大胆类型化转向",
+    "watch": false
+  },
+  {
+    "id": 108,
+    "year": 1994,
+    "title": "橘子酱男孩",
+    "genres": [
+      "少女",
+      "恋爱"
+    ],
+    "rank": "A",
+    "note": "90年代少女恋爱动画代表",
+    "watch": false
+  },
+  {
+    "id": 109,
+    "year": 1995,
+    "title": "攻壳机动队",
+    "genres": [
+      "电影",
+      "赛博朋克"
+    ],
+    "rank": "S",
+    "note": "关于意识、身体与网络社会的世界级经典",
+    "watch": false
+  },
+  {
+    "id": 110,
+    "year": 1995,
+    "title": "侧耳倾听",
+    "genres": [
+      "电影",
+      "青春"
+    ],
+    "rank": "S",
+    "note": "创作、爱情与自我成长的吉卜力名作",
+    "watch": false
+  },
+  {
+    "id": 111,
+    "year": 1995,
+    "title": "天地无用！魉皇鬼",
+    "genres": [
+      "科幻",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "OVA黄金时代代表系列",
+    "watch": false
+  },
+  {
+    "id": 112,
+    "year": 1995,
+    "title": "黄金勇者",
+    "genres": [
+      "机器人",
+      "儿童"
+    ],
+    "rank": "B",
+    "note": "勇者系列代表之一",
+    "watch": false
+  },
+  {
+    "id": 113,
+    "year": 1995,
+    "title": "不思议游戏",
+    "genres": [
+      "少女",
+      "异世界"
+    ],
+    "rank": "A",
+    "note": "少女向穿越与逆后宫先驱",
+    "watch": false
+  },
+  {
+    "id": 114,
+    "year": 1996,
+    "title": "浪客剑心",
+    "genres": [
+      "历史",
+      "动作"
+    ],
+    "rank": "S",
+    "note": "幕末题材全球知名作品",
+    "watch": false
+  },
+  {
+    "id": 115,
+    "year": 1996,
+    "title": "四驱兄弟",
+    "genres": [
+      "竞技",
+      "儿童"
+    ],
+    "rank": "S",
+    "note": "在中国引发四驱车文化热潮",
+    "watch": false
+  },
+  {
+    "id": 116,
+    "year": 1996,
+    "title": "机动战舰抚子号",
+    "genres": [
+      "机甲",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "对机器人动画传统的戏仿与致敬",
+    "watch": false
+  },
+  {
+    "id": 117,
+    "year": 1996,
+    "title": "逮捕令",
+    "genres": [
+      "警察",
+      "日常"
+    ],
+    "rank": "A",
+    "note": "女性搭档职业动画经典",
+    "watch": false
+  },
+  {
+    "id": 118,
+    "year": 1995,
+    "title": "秀逗魔导士",
+    "genres": [
+      "奇幻",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "日式轻小说奇幻冒险代表",
+    "watch": false
+  },
+  {
+    "id": 119,
+    "year": 1996,
+    "title": "乌龙派出所",
+    "genres": [
+      "喜剧",
+      "职场"
+    ],
+    "rank": "S",
+    "note": "日本长寿国民喜剧",
+    "watch": false
+  },
+  {
+    "id": 120,
+    "year": 1996,
+    "title": "地狱老师",
+    "genres": [
+      "校园",
+      "灵异"
+    ],
+    "rank": "A",
+    "note": "90年代校园妖怪动画经典",
+    "watch": false
+  },
+  {
+    "id": 121,
+    "year": 1997,
+    "title": "宝可梦",
+    "genres": [
+      "冒险",
+      "儿童"
+    ],
+    "rank": "S",
+    "note": "全球影响力最大的日本跨媒体IP之一",
+    "watch": false
+  },
+  {
+    "id": 122,
+    "year": 1997,
+    "title": "幽灵公主",
+    "genres": [
+      "电影",
+      "生态史诗"
+    ],
+    "rank": "S",
+    "note": "宫崎骏自然观与文明冲突的巅峰",
+    "watch": false
+  },
+  {
+    "id": 123,
+    "year": 1997,
+    "title": "少女革命",
+    "genres": [
+      "少女",
+      "实验"
+    ],
+    "rank": "S",
+    "note": "性别、权力与象征叙事的里程碑",
+    "watch": false
+  },
+  {
+    "id": 124,
+    "year": 1997,
+    "title": "中华小当家",
+    "genres": [
+      "美食",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "华语地区最有影响力的美食动画之一",
+    "watch": false
+  },
+  {
+    "id": 125,
+    "year": 1997,
+    "title": "金田一少年事件簿",
+    "genres": [
+      "推理",
+      "悬疑"
+    ],
+    "rank": "A",
+    "note": "本格推理动画代表",
+    "watch": false
+  },
+  {
+    "id": 126,
+    "year": 1997,
+    "title": "剑风传奇",
+    "genres": [
+      "黑暗奇幻"
+    ],
+    "rank": "S",
+    "note": "成人黑暗奇幻动画标杆",
+    "watch": false
+  },
+  {
+    "id": 127,
+    "year": 1997,
+    "title": "勇者王GaoGaiGar",
+    "genres": [
+      "机器人"
+    ],
+    "rank": "A",
+    "note": "超级机器人动画集大成者",
+    "watch": false
+  },
+  {
+    "id": 128,
+    "year": 1998,
+    "title": "百变小樱",
+    "genres": [
+      "魔法少女"
+    ],
+    "rank": "S",
+    "note": "温柔、审美与多元情感兼具的世界级经典",
+    "watch": false
+  },
+  {
+    "id": 129,
+    "year": 1998,
+    "title": "星际牛仔",
+    "genres": [
+      "科幻",
+      "公路片"
+    ],
+    "rank": "S",
+    "note": "日本动画国际化审美的代表作",
+    "watch": false
+  },
+  {
+    "id": 130,
+    "year": 1998,
+    "title": "头文字D",
+    "genres": [
+      "赛车",
+      "青春"
+    ],
+    "rank": "S",
+    "note": "漂移、汽车文化与欧陆电子乐的全球符号",
+    "watch": false
+  },
+  {
+    "id": 131,
+    "year": 1998,
+    "title": "玲音",
+    "genres": [
+      "赛博朋克",
+      "心理"
+    ],
+    "rank": "S",
+    "note": "互联网身份与意识问题的预言式作品",
+    "watch": false
+  },
+  {
+    "id": 132,
+    "year": 1998,
+    "title": "枪神Trigun",
+    "genres": [
+      "科幻",
+      "西部"
+    ],
+    "rank": "A",
+    "note": "西部片气质与反战主题经典",
+    "watch": false
+  },
+  {
+    "id": 133,
+    "year": 1998,
+    "title": "彼氏彼女的故事",
+    "genres": [
+      "恋爱",
+      "校园"
+    ],
+    "rank": "A",
+    "note": "庵野秀明实验化少女漫改编",
+    "watch": false
+  },
+  {
+    "id": 134,
+    "year": 1998,
+    "title": "游戏王",
+    "genres": [
+      "竞技",
+      "卡牌"
+    ],
+    "rank": "S",
+    "note": "全球卡牌文化核心IP",
+    "watch": false
+  },
+  {
+    "id": 135,
+    "year": 1998,
+    "title": "危险调查员",
+    "genres": [
+      "冒险",
+      "现实主义"
+    ],
+    "rank": "B",
+    "note": "浦泽直树式成人单元剧",
+    "watch": false
+  },
+  {
+    "id": 136,
+    "year": 1999,
+    "title": "海贼王",
+    "genres": [
+      "热血",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "全球最成功、最持久的少年冒险系列之一",
+    "watch": false
+  },
+  {
+    "id": 137,
+    "year": 1999,
+    "title": "数码宝贝大冒险",
+    "genres": [
+      "儿童",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "与成长主题结合最成功的儿童动画之一",
+    "watch": false
+  },
+  {
+    "id": 138,
+    "year": 1999,
+    "title": "全职猎人",
+    "genres": [
+      "热血",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "复杂规则、心理战与人性书写的少年漫经典",
+    "watch": false
+  },
+  {
+    "id": 139,
+    "year": 1999,
+    "title": "麻辣教师GTO",
+    "genres": [
+      "校园",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "问题教师题材的代表作",
+    "watch": false
+  },
+  {
+    "id": 140,
+    "year": 1999,
+    "title": "无限的未知",
+    "genres": [
+      "科幻",
+      "群像"
+    ],
+    "rank": "A",
+    "note": "封闭环境下的少年政治寓言",
+    "watch": false
+  },
+  {
+    "id": 141,
+    "year": 1999,
+    "title": "人狼",
+    "genres": [
+      "电影",
+      "政治惊悚"
+    ],
+    "rank": "A",
+    "note": "押井守系架空政治动画名作",
+    "watch": false
+  },
+  {
+    "id": 142,
+    "year": 1999,
+    "title": "∀高达",
+    "genres": [
+      "机器人",
+      "科幻"
+    ],
+    "rank": "A",
+    "note": "富野高达美学与文明循环的异色高峰",
+    "watch": false
+  },
+  {
+    "id": 143,
+    "year": 2000,
+    "title": "犬夜叉",
+    "genres": [
+      "奇幻",
+      "爱情"
+    ],
+    "rank": "S",
+    "note": "高桥留美子全球代表作之一",
+    "watch": false
+  },
+  {
+    "id": 144,
+    "year": 2000,
+    "title": "第一神拳",
+    "genres": [
+      "运动",
+      "拳击"
+    ],
+    "rank": "A",
+    "note": "拳击动画长青经典",
+    "watch": false
+  },
+  {
+    "id": 145,
+    "year": 2000,
+    "title": "学校怪谈",
+    "genres": [
+      "校园",
+      "灵异"
+    ],
+    "rank": "A",
+    "note": "亚洲观众童年恐怖记忆",
+    "watch": false
+  },
+  {
+    "id": 146,
+    "year": 2000,
+    "title": "最游记",
+    "genres": [
+      "奇幻",
+      "公路"
+    ],
+    "rank": "A",
+    "note": "女性观众中影响深远的西游改编",
+    "watch": false
+  },
+  {
+    "id": 147,
+    "year": 2000,
+    "title": "哈姆太郎",
+    "genres": [
+      "儿童",
+      "萌系"
+    ],
+    "rank": "A",
+    "note": "全球知名儿童萌宠动画",
+    "watch": false
+  },
+  {
+    "id": 148,
+    "year": 2000,
+    "title": "沉默的未知",
+    "genres": [
+      "科幻",
+      "灾难"
+    ],
+    "rank": "B",
+    "note": "世纪初严肃科幻动画代表",
+    "watch": false
+  },
+  {
+    "id": 149,
+    "year": 2001,
+    "title": "千与千寻",
+    "genres": [
+      "电影",
+      "奇幻"
+    ],
+    "rank": "S",
+    "note": "日本动画电影世界传播的最高标志之一",
+    "watch": false
+  },
+  {
+    "id": 150,
+    "year": 2001,
+    "title": "水果篮子",
+    "genres": [
+      "少女",
+      "治愈"
+    ],
+    "rank": "S",
+    "note": "创伤、家庭与接纳主题的少女漫经典",
+    "watch": false
+  },
+  {
+    "id": 151,
+    "year": 2001,
+    "title": "网球王子",
+    "genres": [
+      "运动",
+      "网球"
+    ],
+    "rank": "S",
+    "note": "女性向运动少年群像的重要转折",
+    "watch": false
+  },
+  {
+    "id": 152,
+    "year": 2001,
+    "title": "棋魂",
+    "genres": [
+      "竞技",
+      "围棋"
+    ],
+    "rank": "S",
+    "note": "推动东亚青少年围棋热潮",
+    "watch": false
+  },
+  {
+    "id": 153,
+    "year": 2001,
+    "title": "通灵王",
+    "genres": [
+      "热血",
+      "灵异"
+    ],
+    "rank": "A",
+    "note": "千禧年代少年冒险经典",
+    "watch": false
+  },
+  {
+    "id": 154,
+    "year": 2001,
+    "title": "皇家国教骑士团",
+    "genres": [
+      "黑暗",
+      "吸血鬼"
+    ],
+    "rank": "A",
+    "note": "暴力美学与哥特气质代表",
+    "watch": false
+  },
+  {
+    "id": 155,
+    "year": 2001,
+    "title": "NOIR",
+    "genres": [
+      "枪战",
+      "女性"
+    ],
+    "rank": "B",
+    "note": "“美少女枪战”类型重要作品",
+    "watch": false
+  },
+  {
+    "id": 156,
+    "year": 2002,
+    "title": "火影忍者",
+    "genres": [
+      "热血",
+      "忍者"
+    ],
+    "rank": "S",
+    "note": "全球最具影响力的少年动画之一",
+    "watch": false
+  },
+  {
+    "id": 157,
+    "year": 2002,
+    "title": "十二国记",
+    "genres": [
+      "异世界",
+      "政治"
+    ],
+    "rank": "S",
+    "note": "女性主角异世界成长与政治叙事高峰",
+    "watch": false
+  },
+  {
+    "id": 158,
+    "year": 2002,
+    "title": "攻壳机动队SAC",
+    "genres": [
+      "赛博朋克",
+      "政治"
+    ],
+    "rank": "S",
+    "note": "电视动画中的硬科幻与社会议题标杆",
+    "watch": false
+  },
+  {
+    "id": 159,
+    "year": 2002,
+    "title": "阿滋漫画大王",
+    "genres": [
+      "日常",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "现代萌系日常动画的重要源头",
+    "watch": false
+  },
+  {
+    "id": 160,
+    "year": 2002,
+    "title": "机动战士高达SEED",
+    "genres": [
+      "机器人",
+      "战争"
+    ],
+    "rank": "S",
+    "note": "令高达进入新一代大众观众视野",
+    "watch": false
+  },
+  {
+    "id": 161,
+    "year": 2002,
+    "title": "东京猫猫",
+    "genres": [
+      "魔法少女"
+    ],
+    "rank": "A",
+    "note": "环保主题战队式魔法少女代表",
+    "watch": false
+  },
+  {
+    "id": 162,
+    "year": 2002,
+    "title": "灰羽联盟",
+    "genres": [
+      "奇幻",
+      "哲思"
+    ],
+    "rank": "A",
+    "note": "罪、救赎与存在感的安静名作",
+    "watch": false
+  },
+  {
+    "id": 163,
+    "year": 2002,
+    "title": "猫的报恩",
+    "genres": [
+      "电影",
+      "奇幻"
+    ],
+    "rank": "A",
+    "note": "轻盈明快的吉卜力人气作",
+    "watch": false
+  },
+  {
+    "id": 164,
+    "year": 2003,
+    "title": "钢之炼金术师",
+    "genres": [
+      "热血",
+      "奇幻"
+    ],
+    "rank": "S",
+    "note": "少年漫中伦理、战争与亲情叙事标杆",
+    "watch": false
+  },
+  {
+    "id": 165,
+    "year": 2003,
+    "title": "奇诺之旅",
+    "genres": [
+      "公路",
+      "哲思"
+    ],
+    "rank": "A",
+    "note": "寓言式国家旅行与价值观实验",
+    "watch": false
+  },
+  {
+    "id": 166,
+    "year": 2003,
+    "title": "狼雨",
+    "genres": [
+      "科幻",
+      "末世"
+    ],
+    "rank": "A",
+    "note": "末世诗意与音乐氛围名作",
+    "watch": false
+  },
+  {
+    "id": 167,
+    "year": 2004,
+    "title": "妄想代理人",
+    "genres": [
+      "心理",
+      "悬疑"
+    ],
+    "rank": "S",
+    "note": "今敏唯一电视动画与社会心理寓言",
+    "watch": false
+  },
+  {
+    "id": 168,
+    "year": 2003,
+    "title": "星空清理者",
+    "genres": [
+      "硬科幻",
+      "职场"
+    ],
+    "rank": "S",
+    "note": "太空劳动、理想与现实主义的佳作",
+    "watch": false
+  },
+  {
+    "id": 169,
+    "year": 2003,
+    "title": "金童卡修",
+    "genres": [
+      "热血",
+      "友情"
+    ],
+    "rank": "A",
+    "note": "情感浓度极高的少年战斗经典",
+    "watch": false
+  },
+  {
+    "id": 170,
+    "year": 2003,
+    "title": "废弃公主",
+    "genres": [
+      "奇幻",
+      "科幻"
+    ],
+    "rank": "B",
+    "note": "传统奇幻外壳下的世界结构反转",
+    "watch": false
+  },
+  {
+    "id": 171,
+    "year": 2004,
+    "title": "哈尔的移动城堡",
+    "genres": [
+      "电影",
+      "奇幻"
+    ],
+    "rank": "S",
+    "note": "宫崎骏全球知名度最高作品之一",
+    "watch": false
+  },
+  {
+    "id": 172,
+    "year": 2004,
+    "title": "怪物MONSTER",
+    "genres": [
+      "悬疑",
+      "人性"
+    ],
+    "rank": "S",
+    "note": "成人心理惊悚与道德困境的动画巅峰",
+    "watch": false
+  },
+  {
+    "id": 173,
+    "year": 2004,
+    "title": "混沌武士",
+    "genres": [
+      "时代剧",
+      "公路"
+    ],
+    "rank": "S",
+    "note": "嘻哈与日本时代剧融合的国际名作",
+    "watch": false
+  },
+  {
+    "id": 174,
+    "year": 2004,
+    "title": "攻壳机动队SAC 2nd GIG",
+    "genres": [
+      "科幻",
+      "政治"
+    ],
+    "rank": "S",
+    "note": "难民、国家与个体议题的高峰",
+    "watch": false
+  },
+  {
+    "id": 175,
+    "year": 2004,
+    "title": "校园迷糊大王",
+    "genres": [
+      "校园",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "千禧年代恋爱喜剧代表",
+    "watch": false
+  },
+  {
+    "id": 176,
+    "year": 2004,
+    "title": "舞-HiME",
+    "genres": [
+      "战斗少女"
+    ],
+    "rank": "A",
+    "note": "少女战斗与情感悲剧的时代代表",
+    "watch": false
+  },
+  {
+    "id": 177,
+    "year": 2004,
+    "title": "蔷薇少女",
+    "genres": [
+      "哥特",
+      "奇幻"
+    ],
+    "rank": "A",
+    "note": "人偶美学与萌文化标志",
+    "watch": false
+  },
+  {
+    "id": 178,
+    "year": 2004,
+    "title": "现视研",
+    "genres": [
+      "宅文化",
+      "日常"
+    ],
+    "rank": "A",
+    "note": "对御宅社团生态的经典观察",
+    "watch": false
+  },
+  {
+    "id": 179,
+    "year": 2005,
+    "title": "虫师",
+    "genres": [
+      "奇幻",
+      "治愈"
+    ],
+    "rank": "S",
+    "note": "自然、生命与幽玄美学的独一档作品",
+    "watch": false
+  },
+  {
+    "id": 180,
+    "year": 2005,
+    "title": "蜂蜜与四叶草",
+    "genres": [
+      "青春",
+      "爱情"
+    ],
+    "rank": "S",
+    "note": "成年前夜、暗恋与创作焦虑的名作",
+    "watch": false
+  },
+  {
+    "id": 181,
+    "year": 2005,
+    "title": "交响诗篇",
+    "genres": [
+      "机器人",
+      "成长"
+    ],
+    "rank": "A",
+    "note": "少年成长、爱情与反战机甲史诗",
+    "watch": false
+  },
+  {
+    "id": 182,
+    "year": 2005,
+    "title": "地狱少女",
+    "genres": [
+      "怪谈",
+      "人性"
+    ],
+    "rank": "A",
+    "note": "单元式怨恨寓言与日式恐怖经典",
+    "watch": false
+  },
+  {
+    "id": 183,
+    "year": 2005,
+    "title": "天堂之吻",
+    "genres": [
+      "时尚",
+      "爱情"
+    ],
+    "rank": "A",
+    "note": "矢泽爱时尚与女性成长代表",
+    "watch": false
+  },
+  {
+    "id": 184,
+    "year": 2005,
+    "title": "植木的法则",
+    "genres": [
+      "热血",
+      "能力战"
+    ],
+    "rank": "B",
+    "note": "规则系能力战少年动画佳作",
+    "watch": false
+  },
+  {
+    "id": 185,
+    "year": 2005,
+    "title": "玻璃假面（新版）",
+    "genres": [
+      "少女",
+      "戏剧"
+    ],
+    "rank": "A",
+    "note": "经典少女漫画的现代完整改编",
+    "watch": false
+  },
+  {
+    "id": 186,
+    "year": 2002,
+    "title": "最终兵器彼女",
+    "genres": [
+      "战争",
+      "爱情"
+    ],
+    "rank": "A",
+    "note": "青春爱情与末世战争的残酷结合",
+    "watch": false
+  },
+  {
+    "id": 187,
+    "year": 2006,
+    "title": "银魂",
+    "genres": [
+      "喜剧",
+      "热血"
+    ],
+    "rank": "S",
+    "note": "日本动画恶搞、群像与情感叙事奇观",
+    "watch": false
+  },
+  {
+    "id": 188,
+    "year": 2006,
+    "title": "NANA",
+    "genres": [
+      "爱情",
+      "音乐"
+    ],
+    "rank": "S",
+    "note": "女性友情、欲望与都市生活的时代作品",
+    "watch": false
+  },
+  {
+    "id": 189,
+    "year": 2006,
+    "title": "反叛的鲁路修",
+    "genres": [
+      "机甲",
+      "政治"
+    ],
+    "rank": "S",
+    "note": "强情节、智斗与悲剧英雄的现象级作品",
+    "watch": false
+  },
+  {
+    "id": 190,
+    "year": 2006,
+    "title": "凉宫春日的忧郁",
+    "genres": [
+      "校园",
+      "科幻"
+    ],
+    "rank": "S",
+    "note": "轻小说动画与御宅文化的时代转折点",
+    "watch": false
+  },
+  {
+    "id": 191,
+    "year": 2006,
+    "title": "樱兰高校男公关部",
+    "genres": [
+      "少女",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "反套路逆后宫与性别喜剧经典",
+    "watch": false
+  },
+  {
+    "id": 192,
+    "year": 2006,
+    "title": "寒蝉鸣泣之时",
+    "genres": [
+      "悬疑",
+      "恐怖"
+    ],
+    "rank": "S",
+    "note": "轮回结构与乡村恐怖名作",
+    "watch": false
+  },
+  {
+    "id": 193,
+    "year": 2006,
+    "title": "死亡笔记（电视动画）",
+    "genres": [
+      "悬疑",
+      "智斗"
+    ],
+    "rank": "S",
+    "note": "系列最具全球影响力的动画版本",
+    "watch": false
+  },
+  {
+    "id": 194,
+    "year": 2006,
+    "title": "家庭教师HITMAN REBORN!",
+    "genres": [
+      "热血",
+      "黑手党"
+    ],
+    "rank": "A",
+    "note": "中国女性观众中影响深远",
+    "watch": false
+  },
+  {
+    "id": 195,
+    "year": 2006,
+    "title": "黑礁",
+    "genres": [
+      "犯罪",
+      "枪战"
+    ],
+    "rank": "A",
+    "note": "东南亚犯罪都市与硬派女性角色代表",
+    "watch": false
+  },
+  {
+    "id": 196,
+    "year": 2006,
+    "title": "欢迎加入NHK",
+    "genres": [
+      "心理",
+      "社会"
+    ],
+    "rank": "A",
+    "note": "宅居、孤独与社会退缩的黑色喜剧",
+    "watch": false
+  },
+  {
+    "id": 197,
+    "year": 2006,
+    "title": "穿越时空的少女",
+    "genres": [
+      "电影",
+      "青春"
+    ],
+    "rank": "S",
+    "note": "细田守青春科幻代表作",
+    "watch": false
+  },
+  {
+    "id": 198,
+    "year": 2007,
+    "title": "天元突破红莲螺岩",
+    "genres": [
+      "机器人",
+      "热血"
+    ],
+    "rank": "S",
+    "note": "超级机器人精神的现代巅峰",
+    "watch": false
+  },
+  {
+    "id": 199,
+    "year": 2007,
+    "title": "CLANNAD",
+    "genres": [
+      "爱情",
+      "家庭"
+    ],
+    "rank": "S",
+    "note": "Key系情感动画最具影响力作品",
+    "watch": false
+  },
+  {
+    "id": 200,
+    "year": 2007,
+    "title": "幸运星",
+    "genres": [
+      "日常",
+      "宅文化"
+    ],
+    "rank": "A",
+    "note": "萌系日常与网络时代御宅文化符号",
+    "watch": false
+  },
+  {
+    "id": 201,
+    "year": 2007,
+    "title": "永生之酒",
+    "genres": [
+      "犯罪",
+      "群像"
+    ],
+    "rank": "A",
+    "note": "非线性叙事与美国禁酒时代奇观",
+    "watch": false
+  },
+  {
+    "id": 202,
+    "year": 2007,
+    "title": "赌博默示录",
+    "genres": [
+      "赌博",
+      "心理"
+    ],
+    "rank": "S",
+    "note": "极限选择与社会寓言的智斗经典",
+    "watch": false
+  },
+  {
+    "id": 203,
+    "year": 2007,
+    "title": "电脑线圈",
+    "genres": [
+      "科幻",
+      "成长"
+    ],
+    "rank": "S",
+    "note": "增强现实、童年与都市传说的先见之作",
+    "watch": false
+  },
+  {
+    "id": 204,
+    "year": 2007,
+    "title": "精灵守护者",
+    "genres": [
+      "奇幻",
+      "冒险"
+    ],
+    "rank": "A",
+    "note": "女性护卫主角与厚重世界观佳作",
+    "watch": false
+  },
+  {
+    "id": 205,
+    "year": 2007,
+    "title": "黑之契约者",
+    "genres": [
+      "超能力",
+      "黑色动作"
+    ],
+    "rank": "A",
+    "note": "冷峻都市异能动画代表",
+    "watch": false
+  },
+  {
+    "id": 206,
+    "year": 2008,
+    "title": "夏目友人帐",
+    "genres": [
+      "治愈",
+      "妖怪"
+    ],
+    "rank": "S",
+    "note": "温柔、孤独与连接主题的长青作品",
+    "watch": false
+  },
+  {
+    "id": 207,
+    "year": 2008,
+    "title": "噬魂师",
+    "genres": [
+      "热血",
+      "奇幻"
+    ],
+    "rank": "A",
+    "note": "独特美术设计与少年战斗代表",
+    "watch": false
+  },
+  {
+    "id": 208,
+    "year": 2008,
+    "title": "龙与虎",
+    "genres": [
+      "校园",
+      "爱情"
+    ],
+    "rank": "S",
+    "note": "傲娇时代最具代表性的恋爱动画之一",
+    "watch": false
+  },
+  {
+    "id": 209,
+    "year": 2008,
+    "title": "某科学的超电磁炮／魔法禁书目录",
+    "genres": [
+      "科幻",
+      "能力战"
+    ],
+    "rank": "A",
+    "note": "学园都市世界观的核心系列",
+    "watch": false
+  },
+  {
+    "id": 210,
+    "year": 2008,
+    "title": "Macross Frontier",
+    "genres": [
+      "机甲",
+      "音乐"
+    ],
+    "rank": "S",
+    "note": "系列音乐商业性与偶像文化高峰",
+    "watch": false
+  },
+  {
+    "id": 211,
+    "year": 2008,
+    "title": "魍魉之匣",
+    "genres": [
+      "推理",
+      "怪奇"
+    ],
+    "rank": "B",
+    "note": "京极夏彦复杂本格推理改编",
+    "watch": false
+  },
+  {
+    "id": 212,
+    "year": 2008,
+    "title": "食灵-零-",
+    "genres": [
+      "战斗",
+      "灵异"
+    ],
+    "rank": "A",
+    "note": "以强烈情感反转闻名",
+    "watch": false
+  },
+  {
+    "id": 213,
+    "year": 2008,
+    "title": "悬崖上的金鱼姬",
+    "genres": [
+      "电影",
+      "家庭"
+    ],
+    "rank": "S",
+    "note": "宫崎骏面向儿童的海洋童话",
+    "watch": false
+  },
+  {
+    "id": 214,
+    "year": 2009,
+    "title": "钢之炼金术师FA",
+    "genres": [
+      "热血",
+      "奇幻"
+    ],
+    "rank": "S",
+    "note": "完整度极高的全球公认少年漫改编",
+    "watch": false
+  },
+  {
+    "id": 215,
+    "year": 2009,
+    "title": "轻音少女",
+    "genres": [
+      "音乐",
+      "日常"
+    ],
+    "rank": "S",
+    "note": "日常系、乐队文化与京都动画标志",
+    "watch": false
+  },
+  {
+    "id": 216,
+    "year": 2009,
+    "title": "化物语",
+    "genres": [
+      "怪异",
+      "对话"
+    ],
+    "rank": "S",
+    "note": "新房昭之视觉与西尾维新语言风格的标志",
+    "watch": false
+  },
+  {
+    "id": 217,
+    "year": 2009,
+    "title": "好想告诉你",
+    "genres": [
+      "少女",
+      "爱情"
+    ],
+    "rank": "S",
+    "note": "纯爱少女动画长青代表",
+    "watch": false
+  },
+  {
+    "id": 218,
+    "year": 2009,
+    "title": "东之伊甸",
+    "genres": [
+      "悬疑",
+      "社会"
+    ],
+    "rank": "A",
+    "note": "手机时代的救世游戏与青年社会想象",
+    "watch": false
+  },
+  {
+    "id": 219,
+    "year": 2009,
+    "title": "天降之物",
+    "genres": [
+      "后宫",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "夸张喜剧与情感科幻结合的时代作品",
+    "watch": false
+  },
+  {
+    "id": 220,
+    "year": 2009,
+    "title": "东京地震8.0",
+    "genres": [
+      "灾难",
+      "家庭"
+    ],
+    "rank": "A",
+    "note": "现实主义灾难动画代表",
+    "watch": false
+  },
+  {
+    "id": 221,
+    "year": 2010,
+    "title": "四叠半神话大系",
+    "genres": [
+      "青春",
+      "实验"
+    ],
+    "rank": "S",
+    "note": "汤浅政明关于选择与可能性的代表作",
+    "watch": false
+  },
+  {
+    "id": 222,
+    "year": 2010,
+    "title": "无头骑士异闻录",
+    "genres": [
+      "都市",
+      "群像"
+    ],
+    "rank": "S",
+    "note": "池袋都市传说与网络群像经典",
+    "watch": false
+  },
+  {
+    "id": 223,
+    "year": 2010,
+    "title": "Angel Beats!",
+    "genres": [
+      "校园",
+      "奇幻"
+    ],
+    "rank": "A",
+    "note": "青春、死亡与告别的现象级作品",
+    "watch": false
+  },
+  {
+    "id": 224,
+    "year": 2010,
+    "title": "会长是女仆大人",
+    "genres": [
+      "少女",
+      "爱情"
+    ],
+    "rank": "A",
+    "note": "强势女主恋爱喜剧代表",
+    "watch": false
+  },
+  {
+    "id": 225,
+    "year": 2010,
+    "title": "侵略！乌贼娘",
+    "genres": [
+      "日常",
+      "喜剧"
+    ],
+    "rank": "B",
+    "note": "网络传播时代的萌系喜剧代表",
+    "watch": false
+  },
+  {
+    "id": 226,
+    "year": 2010,
+    "title": "吊带袜天使",
+    "genres": [
+      "动作",
+      "恶搞"
+    ],
+    "rank": "A",
+    "note": "美式卡通与日本宅文化的激进混搭",
+    "watch": false
+  },
+  {
+    "id": 227,
+    "year": 2010,
+    "title": "借东西的小人阿莉埃蒂",
+    "genres": [
+      "电影",
+      "奇幻"
+    ],
+    "rank": "A",
+    "note": "吉卜力微观世界美学代表",
+    "watch": false
+  },
+  {
+    "id": 228,
+    "year": 2011,
+    "title": "魔法少女小圆",
+    "genres": [
+      "魔法少女",
+      "黑暗"
+    ],
+    "rank": "S",
+    "note": "彻底改写现代魔法少女类型的里程碑",
+    "watch": false
+  },
+  {
+    "id": 229,
+    "year": 2011,
+    "title": "命运石之门",
+    "genres": [
+      "科幻",
+      "悬疑"
+    ],
+    "rank": "S",
+    "note": "时间旅行题材动画的公认经典",
+    "watch": false
+  },
+  {
+    "id": 230,
+    "year": 2011,
+    "title": "全职猎人（新版）",
+    "genres": [
+      "热血",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "富坚义博原作最完整、全球传播最广版本",
+    "watch": false
+  },
+  {
+    "id": 231,
+    "year": 2011,
+    "title": "Fate/Zero",
+    "genres": [
+      "奇幻",
+      "战争"
+    ],
+    "rank": "S",
+    "note": "Fate系列走向全球主流的重要作品",
+    "watch": false
+  },
+  {
+    "id": 232,
+    "year": 2011,
+    "title": "未闻花名",
+    "genres": [
+      "青春",
+      "治愈"
+    ],
+    "rank": "S",
+    "note": "关于童年创伤与告别的现象级动画",
+    "watch": false
+  },
+  {
+    "id": 233,
+    "year": 2011,
+    "title": "回转企鹅罐",
+    "genres": [
+      "心理",
+      "象征"
+    ],
+    "rank": "A",
+    "note": "家庭、命运与社会创伤的象征叙事",
+    "watch": false
+  },
+  {
+    "id": 234,
+    "year": 2011,
+    "title": "花牌情缘",
+    "genres": [
+      "竞技",
+      "少女"
+    ],
+    "rank": "S",
+    "note": "竞技、青春与群像结合的长青佳作",
+    "watch": false
+  },
+  {
+    "id": 235,
+    "year": 2011,
+    "title": "未来日记",
+    "genres": [
+      "悬疑",
+      "生存"
+    ],
+    "rank": "A",
+    "note": "病娇角色与生存游戏类型标志",
+    "watch": false
+  },
+  {
+    "id": 236,
+    "year": 2011,
+    "title": "日常",
+    "genres": [
+      "荒诞",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "作画豪华、节奏独特的日常喜剧经典",
+    "watch": false
+  },
+  {
+    "id": 237,
+    "year": 2011,
+    "title": "偶像大师",
+    "genres": [
+      "偶像",
+      "群像"
+    ],
+    "rank": "A",
+    "note": "现代偶像动画工业的重要基石",
+    "watch": false
+  },
+  {
+    "id": 238,
+    "year": 2012,
+    "title": "刀剑神域",
+    "genres": [
+      "异世界",
+      "游戏"
+    ],
+    "rank": "S",
+    "note": "引爆全球异世界与VR网游动画潮流",
+    "watch": false
+  },
+  {
+    "id": 239,
+    "year": 2012,
+    "title": "心理测量者",
+    "genres": [
+      "赛博朋克",
+      "警察"
+    ],
+    "rank": "S",
+    "note": "算法治理与自由意志议题的主流科幻名作",
+    "watch": false
+  },
+  {
+    "id": 240,
+    "year": 2012,
+    "title": "冰菓",
+    "genres": [
+      "校园",
+      "推理"
+    ],
+    "rank": "S",
+    "note": "京都动画日常推理与青春美学高峰",
+    "watch": false
+  },
+  {
+    "id": 241,
+    "year": 2012,
+    "title": "JOJO的奇妙冒险",
+    "genres": [
+      "热血",
+      "超能力"
+    ],
+    "rank": "S",
+    "note": "独特画风、姿势与替身文化的全球现象",
+    "watch": false
+  },
+  {
+    "id": 242,
+    "year": 2012,
+    "title": "中二病也要谈恋爱",
+    "genres": [
+      "校园",
+      "爱情"
+    ],
+    "rank": "A",
+    "note": "“中二病”文化的代表性作品",
+    "watch": false
+  },
+  {
+    "id": 243,
+    "year": 2012,
+    "title": "男子高中生的日常",
+    "genres": [
+      "校园",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "段子式青春喜剧经典",
+    "watch": false
+  },
+  {
+    "id": 244,
+    "year": 2012,
+    "title": "来自新世界",
+    "genres": [
+      "反乌托邦",
+      "科幻"
+    ],
+    "rank": "S",
+    "note": "伦理、权力与人类定义的黑暗寓言",
+    "watch": false
+  },
+  {
+    "id": 245,
+    "year": 2012,
+    "title": "狼的孩子雨和雪",
+    "genres": [
+      "电影",
+      "家庭"
+    ],
+    "rank": "S",
+    "note": "细田守关于母职与成长的代表作",
+    "watch": false
+  },
+  {
+    "id": 246,
+    "year": 2013,
+    "title": "进击的巨人",
+    "genres": [
+      "黑暗奇幻",
+      "战争"
+    ],
+    "rank": "S",
+    "note": "全球现象级作品，重塑电视动画国际影响力",
+    "watch": false
+  },
+  {
+    "id": 247,
+    "year": 2014,
+    "title": "排球少年",
+    "genres": [
+      "运动",
+      "排球"
+    ],
+    "rank": "S",
+    "note": "现代运动动画最成功的全球代表之一",
+    "watch": false
+  },
+  {
+    "id": 248,
+    "year": 2017,
+    "title": "来自深渊",
+    "genres": [
+      "奇幻",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "以童话外观承载残酷探索与世界构造",
+    "watch": false
+  },
+  {
+    "id": 249,
+    "year": 2013,
+    "title": "我的青春恋爱物语果然有问题",
+    "genres": [
+      "校园",
+      "心理"
+    ],
+    "rank": "S",
+    "note": "青年疏离与关系真实性的轻小说名作",
+    "watch": false
+  },
+  {
+    "id": 250,
+    "year": 2013,
+    "title": "斩服少女",
+    "genres": [
+      "动作",
+      "实验"
+    ],
+    "rank": "A",
+    "note": "TRIGGER视觉能量与身体政治代表",
+    "watch": false
+  },
+  {
+    "id": 251,
+    "year": 2013,
+    "title": "境界的彼方",
+    "genres": [
+      "奇幻",
+      "青春"
+    ],
+    "rank": "A",
+    "note": "京都动画视觉与角色人气作品",
+    "watch": false
+  },
+  {
+    "id": 252,
+    "year": 2013,
+    "title": "飙速宅男",
+    "genres": [
+      "运动",
+      "自行车"
+    ],
+    "rank": "A",
+    "note": "自行车竞技动画长篇代表",
+    "watch": false
+  },
+  {
+    "id": 253,
+    "year": 2013,
+    "title": "悠哉日常大王",
+    "genres": [
+      "乡村",
+      "治愈"
+    ],
+    "rank": "A",
+    "note": "乡村日常系经典",
+    "watch": false
+  },
+  {
+    "id": 254,
+    "year": 2013,
+    "title": "言叶之庭",
+    "genres": [
+      "电影",
+      "爱情"
+    ],
+    "rank": "A",
+    "note": "新海诚雨景视觉美学代表",
+    "watch": false
+  },
+  {
+    "id": 255,
+    "year": 2014,
+    "title": "四月是你的谎言",
+    "genres": [
+      "音乐",
+      "青春"
+    ],
+    "rank": "S",
+    "note": "音乐、创伤与青春爱情的全球名作",
+    "watch": false
+  },
+  {
+    "id": 256,
+    "year": 2014,
+    "title": "东京喰种",
+    "genres": [
+      "黑暗奇幻"
+    ],
+    "rank": "S",
+    "note": "千禧一代黑暗少年动画符号",
+    "watch": false
+  },
+  {
+    "id": 257,
+    "year": 2014,
+    "title": "月刊少女野崎君",
+    "genres": [
+      "恋爱",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "反套路少女漫喜剧经典",
+    "watch": false
+  },
+  {
+    "id": 258,
+    "year": 2014,
+    "title": "寄生兽：生命的准则",
+    "genres": [
+      "科幻",
+      "人性"
+    ],
+    "rank": "S",
+    "note": "生命伦理与人类中心主义的经典改编",
+    "watch": false
+  },
+  {
+    "id": 259,
+    "year": 2014,
+    "title": "乒乓",
+    "genres": [
+      "运动",
+      "成长"
+    ],
+    "rank": "S",
+    "note": "汤浅政明运动动画与角色成长巅峰",
+    "watch": false
+  },
+  {
+    "id": 260,
+    "year": 2014,
+    "title": "白箱",
+    "genres": [
+      "职场",
+      "动画业界"
+    ],
+    "rank": "S",
+    "note": "描绘动画制作现场的行业代表作",
+    "watch": false
+  },
+  {
+    "id": 261,
+    "year": 2014,
+    "title": "Fate/stay night [UBW]",
+    "genres": [
+      "奇幻",
+      "战斗"
+    ],
+    "rank": "A",
+    "note": "Fate系列主流化的重要高质量改编",
+    "watch": false
+  },
+  {
+    "id": 262,
+    "year": 2014,
+    "title": "野良神",
+    "genres": [
+      "奇幻",
+      "都市"
+    ],
+    "rank": "A",
+    "note": "神明、妖怪与青春关系的人气作",
+    "watch": false
+  },
+  {
+    "id": 263,
+    "year": 2014,
+    "title": "游戏人生",
+    "genres": [
+      "异世界",
+      "智斗"
+    ],
+    "rank": "A",
+    "note": "高饱和视觉与规则游戏代表",
+    "watch": false
+  },
+  {
+    "id": 264,
+    "year": 2014,
+    "title": "晨曦公主",
+    "genres": [
+      "少女",
+      "冒险"
+    ],
+    "rank": "A",
+    "note": "女性成长与东方奇幻群像佳作",
+    "watch": false
+  },
+  {
+    "id": 265,
+    "year": 2015,
+    "title": "一拳超人",
+    "genres": [
+      "动作",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "反英雄设定与顶级动作作画的全球爆款",
+    "watch": false
+  },
+  {
+    "id": 266,
+    "year": 2015,
+    "title": "吹响！上低音号",
+    "genres": [
+      "音乐",
+      "青春"
+    ],
+    "rank": "S",
+    "note": "社团关系、才能与努力的细腻名作",
+    "watch": false
+  },
+  {
+    "id": 267,
+    "year": 2015,
+    "title": "血界战线",
+    "genres": [
+      "都市",
+      "奇幻"
+    ],
+    "rank": "A",
+    "note": "纽约式异界都市与群像动作代表",
+    "watch": false
+  },
+  {
+    "id": 268,
+    "year": 2015,
+    "title": "死亡游行",
+    "genres": [
+      "心理",
+      "人性"
+    ],
+    "rank": "A",
+    "note": "以死后审判讨论人性与记忆",
+    "watch": false
+  },
+  {
+    "id": 269,
+    "year": 2015,
+    "title": "赤发白雪姬",
+    "genres": [
+      "少女",
+      "爱情"
+    ],
+    "rank": "A",
+    "note": "独立女主与健康关系的少女奇幻佳作",
+    "watch": false
+  },
+  {
+    "id": 270,
+    "year": 2015,
+    "title": "干物妹！小埋",
+    "genres": [
+      "日常",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "二次元生活方式的网络符号",
+    "watch": false
+  },
+  {
+    "id": 271,
+    "year": 2015,
+    "title": "下流梗不存在的灰暗世界",
+    "genres": [
+      "喜剧",
+      "反乌托邦"
+    ],
+    "rank": "B",
+    "note": "以夸张性禁忌讽刺审查社会",
+    "watch": false
+  },
+  {
+    "id": 272,
+    "year": 2015,
+    "title": "心灵想要大声呼喊",
+    "genres": [
+      "电影",
+      "青春"
+    ],
+    "rank": "A",
+    "note": "沟通障碍与青春创伤的群像电影",
+    "watch": false
+  },
+  {
+    "id": 273,
+    "year": 2016,
+    "title": "你的名字",
+    "genres": [
+      "电影",
+      "爱情奇幻"
+    ],
+    "rank": "S",
+    "note": "全球票房与传播意义上的新海诚里程碑",
+    "watch": false
+  },
+  {
+    "id": 274,
+    "year": 2016,
+    "title": "灵能百分百",
+    "genres": [
+      "超能力",
+      "成长"
+    ],
+    "rank": "S",
+    "note": "成长主题、作画与喜剧兼具的现代经典",
+    "watch": false
+  },
+  {
+    "id": 275,
+    "year": 2016,
+    "title": "Re：从零开始的异世界生活",
+    "genres": [
+      "异世界",
+      "心理"
+    ],
+    "rank": "S",
+    "note": "把死亡轮回与创伤体验带入主流异世界",
+    "watch": false
+  },
+  {
+    "id": 276,
+    "year": 2016,
+    "title": "我的英雄学院",
+    "genres": [
+      "热血",
+      "英雄"
+    ],
+    "rank": "S",
+    "note": "新世代全球少年英雄动画代表",
+    "watch": false
+  },
+  {
+    "id": 277,
+    "year": 2016,
+    "title": "冰上的尤里",
+    "genres": [
+      "运动",
+      "爱情"
+    ],
+    "rank": "S",
+    "note": "花滑美学与同性情感表达的全球现象",
+    "watch": false
+  },
+  {
+    "id": 278,
+    "year": 2016,
+    "title": "声之形",
+    "genres": [
+      "电影",
+      "青春"
+    ],
+    "rank": "S",
+    "note": "校园霸凌、残障与赎罪主题名作",
+    "watch": false
+  },
+  {
+    "id": 279,
+    "year": 2016,
+    "title": "昭和元禄落语心中",
+    "genres": [
+      "历史",
+      "艺术"
+    ],
+    "rank": "S",
+    "note": "传统艺术、欲望与时代变迁的成人佳作",
+    "watch": false
+  },
+  {
+    "id": 280,
+    "year": 2016,
+    "title": "文豪野犬",
+    "genres": [
+      "异能",
+      "都市"
+    ],
+    "rank": "A",
+    "note": "文学人物再创作与女性向群像人气作",
+    "watch": false
+  },
+  {
+    "id": 281,
+    "year": 2016,
+    "title": "齐木楠雄的灾难",
+    "genres": [
+      "校园",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "高密度吐槽喜剧代表",
+    "watch": false
+  },
+  {
+    "id": 282,
+    "year": 2016,
+    "title": "只有我不存在的城市",
+    "genres": [
+      "悬疑",
+      "时间旅行"
+    ],
+    "rank": "A",
+    "note": "强情节社会派悬疑人气作",
+    "watch": false
+  },
+  {
+    "id": 283,
+    "year": 2016,
+    "title": "甲铁城的卡巴内瑞",
+    "genres": [
+      "末世",
+      "动作"
+    ],
+    "rank": "A",
+    "note": "工业和风视觉与高规格动作代表",
+    "watch": false
+  },
+  {
+    "id": 284,
+    "year": 2017,
+    "title": "宝石之国",
+    "genres": [
+      "奇幻",
+      "CG"
+    ],
+    "rank": "S",
+    "note": "日本电视CG动画美学里程碑",
+    "watch": false
+  },
+  {
+    "id": 285,
+    "year": 2017,
+    "title": "小林家的龙女仆",
+    "genres": [
+      "日常",
+      "奇幻"
+    ],
+    "rank": "S",
+    "note": "家庭、异类与温暖日常的全球人气作",
+    "watch": false
+  },
+  {
+    "id": 286,
+    "year": 2017,
+    "title": "狂赌之渊",
+    "genres": [
+      "赌博",
+      "颜艺"
+    ],
+    "rank": "A",
+    "note": "夸张心理博弈与角色表演代表",
+    "watch": false
+  },
+  {
+    "id": 287,
+    "year": 2017,
+    "title": "少女终末旅行",
+    "genres": [
+      "末世",
+      "治愈"
+    ],
+    "rank": "S",
+    "note": "在文明废墟中讨论日常与存在",
+    "watch": false
+  },
+  {
+    "id": 288,
+    "year": 2017,
+    "title": "深夜！天才傻鹏",
+    "genres": [
+      "荒诞",
+      "喜剧"
+    ],
+    "rank": "B",
+    "note": "经典国民漫画的现代实验性改编",
+    "watch": false
+  },
+  {
+    "id": 289,
+    "year": 2017,
+    "title": "舞动青春",
+    "genres": [
+      "运动",
+      "舞蹈"
+    ],
+    "rank": "A",
+    "note": "竞技舞蹈题材的高质量代表",
+    "watch": false
+  },
+  {
+    "id": 290,
+    "year": 2017,
+    "title": "犬屋敷",
+    "genres": [
+      "科幻",
+      "人性"
+    ],
+    "rank": "A",
+    "note": "老年英雄与青年恶意的极端对照",
+    "watch": false
+  },
+  {
+    "id": 291,
+    "year": 2017,
+    "title": "烟花",
+    "genres": [
+      "电影",
+      "青春奇幻"
+    ],
+    "rank": "A",
+    "note": "以视觉和主题曲形成广泛传播",
+    "watch": false
+  },
+  {
+    "id": 292,
+    "year": 2018,
+    "title": "紫罗兰永恒花园",
+    "genres": [
+      "治愈",
+      "战争创伤"
+    ],
+    "rank": "S",
+    "note": "书信、情感学习与京都动画视觉高峰",
+    "watch": false
+  },
+  {
+    "id": 293,
+    "year": 2018,
+    "title": "摇曳露营",
+    "genres": [
+      "治愈",
+      "户外"
+    ],
+    "rank": "S",
+    "note": "引发露营消费与“舒适动画”潮流",
+    "watch": false
+  },
+  {
+    "id": 294,
+    "year": 2018,
+    "title": "比宇宙更远的地方",
+    "genres": [
+      "青春",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "少女行动力与南极旅程的原创名作",
+    "watch": false
+  },
+  {
+    "id": 295,
+    "year": 2018,
+    "title": "恶魔人 Crybaby",
+    "genres": [
+      "黑暗奇幻",
+      "实验"
+    ],
+    "rank": "S",
+    "note": "汤浅政明对经典末世悲剧的激进重构",
+    "watch": false
+  },
+  {
+    "id": 296,
+    "year": 2018,
+    "title": "佐贺偶像是传奇",
+    "genres": [
+      "偶像",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "僵尸与地方振兴偶像动画的奇妙成功",
+    "watch": false
+  },
+  {
+    "id": 297,
+    "year": 2018,
+    "title": "工作细胞",
+    "genres": [
+      "科普",
+      "拟人"
+    ],
+    "rank": "S",
+    "note": "人体知识拟人化的全球科普爆款",
+    "watch": false
+  },
+  {
+    "id": 298,
+    "year": 2018,
+    "title": "强风吹拂",
+    "genres": [
+      "运动",
+      "跑步"
+    ],
+    "rank": "S",
+    "note": "成年感极强的团队成长运动名作",
+    "watch": false
+  },
+  {
+    "id": 299,
+    "year": 2018,
+    "title": "青春猪头少年",
+    "genres": [
+      "青春",
+      "奇幻"
+    ],
+    "rank": "A",
+    "note": "以超自然现象包装青少年心理问题",
+    "watch": false
+  },
+  {
+    "id": 300,
+    "year": 2018,
+    "title": "黄金神威",
+    "genres": [
+      "历史",
+      "冒险"
+    ],
+    "rank": "S",
+    "note": "北海道、阿伊努文化与寻金群像史诗",
+    "watch": false
+  },
+  {
+    "id": 301,
+    "year": 2018,
+    "title": "BANANA FISH",
+    "genres": [
+      "犯罪",
+      "青春"
+    ],
+    "rank": "S",
+    "note": "少女漫画史上的硬派犯罪与悲剧情感名作",
+    "watch": false
+  },
+  {
+    "id": 302,
+    "year": 2019,
+    "title": "鬼灭之刃",
+    "genres": [
+      "热血",
+      "和风"
+    ],
+    "rank": "S",
+    "note": "全球现象级商业动画与电影票房奇迹",
+    "watch": false
+  },
+  {
+    "id": 303,
+    "year": 2019,
+    "title": "辉夜大小姐想让我告白",
+    "genres": [
+      "恋爱",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "现代恋爱喜剧演出与角色塑造标杆",
+    "watch": false
+  },
+  {
+    "id": 304,
+    "year": 2019,
+    "title": "约定的梦幻岛",
+    "genres": [
+      "悬疑",
+      "生存"
+    ],
+    "rank": "A",
+    "note": "第一季以儿童逃亡智斗形成现象",
+    "watch": false
+  },
+  {
+    "id": 305,
+    "year": 2019,
+    "title": "冰海战记",
+    "genres": [
+      "历史",
+      "战争"
+    ],
+    "rank": "S",
+    "note": "复仇、奴隶制与和平主义的史诗",
+    "watch": false
+  },
+  {
+    "id": 306,
+    "year": 2019,
+    "title": "BEASTARS",
+    "genres": [
+      "社会寓言",
+      "CG"
+    ],
+    "rank": "S",
+    "note": "以动物社会讨论欲望、偏见与身份",
+    "watch": false
+  },
+  {
+    "id": 307,
+    "year": 2019,
+    "title": "多罗罗",
+    "genres": [
+      "历史",
+      "黑暗奇幻"
+    ],
+    "rank": "A",
+    "note": "手冢治虫经典的现代重构",
+    "watch": false
+  },
+  {
+    "id": 308,
+    "year": 2019,
+    "title": "街角魔族",
+    "genres": [
+      "日常",
+      "魔法少女"
+    ],
+    "rank": "A",
+    "note": "轻松关系喜剧与长期口碑佳作",
+    "watch": false
+  },
+  {
+    "id": 309,
+    "year": 2019,
+    "title": "Given",
+    "genres": [
+      "音乐",
+      "BL"
+    ],
+    "rank": "S",
+    "note": "音乐、失去与同性情感的主流代表",
+    "watch": false
+  },
+  {
+    "id": 310,
+    "year": 2019,
+    "title": "天气之子",
+    "genres": [
+      "电影",
+      "奇幻爱情"
+    ],
+    "rank": "S",
+    "note": "新海诚关于气候、城市与个人选择的大片",
+    "watch": false
+  },
+  {
+    "id": 311,
+    "year": 2019,
+    "title": "海兽之子",
+    "genres": [
+      "电影",
+      "奇幻"
+    ],
+    "rank": "A",
+    "note": "海洋生命与宇宙感的视觉艺术电影",
+    "watch": false
+  },
+  {
+    "id": 312,
+    "year": 2020,
+    "title": "咒术回战",
+    "genres": [
+      "热血",
+      "黑暗奇幻"
+    ],
+    "rank": "S",
+    "note": "新世代全球少年战斗动画核心作品",
+    "watch": false
+  },
+  {
+    "id": 313,
+    "year": 2020,
+    "title": "别对映像研出手！",
+    "genres": [
+      "创作",
+      "校园"
+    ],
+    "rank": "S",
+    "note": "对动画创作欲与想象力最生动的礼赞",
+    "watch": false
+  },
+  {
+    "id": 314,
+    "year": 2020,
+    "title": "异度侵入 ID:INVADED",
+    "genres": [
+      "科幻",
+      "悬疑"
+    ],
+    "rank": "A",
+    "note": "意识潜入与连环案件的原创佳作",
+    "watch": false
+  },
+  {
+    "id": 315,
+    "year": 2020,
+    "title": "隐瞒之事",
+    "genres": [
+      "家庭",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "漫画家父亲与女儿关系的温柔喜剧",
+    "watch": false
+  },
+  {
+    "id": 316,
+    "year": 2020,
+    "title": "无能力者娜娜",
+    "genres": [
+      "校园",
+      "悬疑"
+    ],
+    "rank": "A",
+    "note": "以身份反转展开的心理生存战",
+    "watch": false
+  },
+  {
+    "id": 317,
+    "year": 2020,
+    "title": "大欺诈师",
+    "genres": [
+      "犯罪",
+      "冒险"
+    ],
+    "rank": "A",
+    "note": "国际舞台、鲜明色彩与骗术群像",
+    "watch": false
+  },
+  {
+    "id": 318,
+    "year": 2020,
+    "title": "阿松第三季／阿松系列",
+    "genres": [
+      "荒诞",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "昭和国民漫画的现代恶搞重生",
+    "watch": false
+  },
+  {
+    "id": 319,
+    "year": 2020,
+    "title": "Jose与虎与鱼们",
+    "genres": [
+      "电影",
+      "爱情"
+    ],
+    "rank": "A",
+    "note": "残障、独立与情感成长的动画电影",
+    "watch": false
+  },
+  {
+    "id": 320,
+    "year": 2021,
+    "title": "国王排名",
+    "genres": [
+      "奇幻",
+      "成长"
+    ],
+    "rank": "S",
+    "note": "童话画风下关于善恶、残障与勇气的名作",
+    "watch": false
+  },
+  {
+    "id": 321,
+    "year": 2021,
+    "title": "奇巧计程车",
+    "genres": [
+      "悬疑",
+      "群像"
+    ],
+    "rank": "S",
+    "note": "结构严密的都市群像悬疑原创动画",
+    "watch": false
+  },
+  {
+    "id": 322,
+    "year": 2021,
+    "title": "无职转生",
+    "genres": [
+      "异世界",
+      "成长"
+    ],
+    "rank": "S",
+    "note": "异世界动画制作水准与争议并存的标志作",
+    "watch": false
+  },
+  {
+    "id": 323,
+    "year": 2021,
+    "title": "东京复仇者",
+    "genres": [
+      "穿越",
+      "不良少年"
+    ],
+    "rank": "A",
+    "note": "时间循环与不良少年题材现象级作品",
+    "watch": false
+  },
+  {
+    "id": 324,
+    "year": 2021,
+    "title": "影宅",
+    "genres": [
+      "哥特",
+      "悬疑"
+    ],
+    "rank": "A",
+    "note": "身份、阶级与宅邸谜团的独特作品",
+    "watch": false
+  },
+  {
+    "id": 325,
+    "year": 2021,
+    "title": "86—不存在的战区—",
+    "genres": [
+      "战争",
+      "机甲"
+    ],
+    "rank": "A",
+    "note": "种族隔离与战争牺牲主题的轻小说名作",
+    "watch": false
+  },
+  {
+    "id": 326,
+    "year": 2021,
+    "title": "漂流少年",
+    "genres": [
+      "科幻",
+      "实验"
+    ],
+    "rank": "S",
+    "note": "青春、孤独与规则世界的原创实验动画",
+    "watch": false
+  },
+  {
+    "id": 327,
+    "year": 2021,
+    "title": "赛马娘 Pretty Derby 第二季",
+    "genres": [
+      "运动",
+      "偶像"
+    ],
+    "rank": "A",
+    "note": "跨媒体企划中口碑极高的体育叙事",
+    "watch": false
+  },
+  {
+    "id": 328,
+    "year": 2021,
+    "title": "古见同学有交流障碍症",
+    "genres": [
+      "校园",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "社交障碍与朋友目标的全球人气作",
+    "watch": false
+  },
+  {
+    "id": 329,
+    "year": 2021,
+    "title": "平家物语",
+    "genres": [
+      "历史",
+      "文学"
+    ],
+    "rank": "S",
+    "note": "山田尚子以女性视角重述古典史诗",
+    "watch": false
+  },
+  {
+    "id": 330,
+    "year": 2021,
+    "title": "蓝色时期",
+    "genres": [
+      "艺术",
+      "成长"
+    ],
+    "rank": "A",
+    "note": "以绘画考学讨论才能、努力与自我表达",
+    "watch": false
+  },
+  {
+    "id": 331,
+    "year": 2021,
+    "title": "新·福音战士剧场版：终",
+    "genres": [
+      "电影",
+      "科幻"
+    ],
+    "rank": "S",
+    "note": "跨越26年的系列告别与创作者自我和解",
+    "watch": false
+  },
+  {
+    "id": 332,
+    "year": 2022,
+    "title": "间谍过家家",
+    "genres": [
+      "家庭",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "跨年龄、跨国界传播的家庭喜剧爆款",
+    "watch": false
+  },
+  {
+    "id": 333,
+    "year": 2022,
+    "title": "电锯人",
+    "genres": [
+      "黑暗奇幻",
+      "动作"
+    ],
+    "rank": "S",
+    "note": "电影化演出与反传统少年漫气质的现象作",
+    "watch": false
+  },
+  {
+    "id": 334,
+    "year": 2022,
+    "title": "孤独摇滚！",
+    "genres": [
+      "音乐",
+      "喜剧"
+    ],
+    "rank": "S",
+    "note": "社交焦虑、乐队与视觉演出的时代作品",
+    "watch": false
+  },
+  {
+    "id": 335,
+    "year": 2022,
+    "title": "莉可丽丝",
+    "genres": [
+      "动作",
+      "百合"
+    ],
+    "rank": "A",
+    "note": "女性搭档、枪战与日常关系的人气原创作",
+    "watch": false
+  },
+  {
+    "id": 336,
+    "year": 2022,
+    "title": "夏日重现",
+    "genres": [
+      "悬疑",
+      "轮回"
+    ],
+    "rank": "S",
+    "note": "逻辑清晰、完成度高的海岛轮回悬疑",
+    "watch": false
+  },
+  {
+    "id": 337,
+    "year": 2022,
+    "title": "蓝色监狱",
+    "genres": [
+      "运动",
+      "足球"
+    ],
+    "rank": "S",
+    "note": "以极端个人主义重构足球动画",
+    "watch": false
+  },
+  {
+    "id": 338,
+    "year": 2022,
+    "title": "彻夜之歌",
+    "genres": [
+      "夜游",
+      "青春"
+    ],
+    "rank": "A",
+    "note": "都市夜色、音乐与青春疏离感代表",
+    "watch": false
+  },
+  {
+    "id": 339,
+    "year": 2022,
+    "title": "更衣人偶坠入爱河",
+    "genres": [
+      "恋爱",
+      "Cosplay"
+    ],
+    "rank": "A",
+    "note": "兴趣尊重与亲密关系的现象级恋爱喜剧",
+    "watch": false
+  },
+  {
+    "id": 340,
+    "year": 2022,
+    "title": "灵能百分百 III",
+    "genres": [
+      "超能力",
+      "成长"
+    ],
+    "rank": "S",
+    "note": "为主角成长主题完成高质量收束",
+    "watch": false
+  },
+  {
+    "id": 341,
+    "year": 2022,
+    "title": "赛博朋克：边缘行者",
+    "genres": [
+      "赛博朋克",
+      "悲剧"
+    ],
+    "rank": "S",
+    "note": "日本动画与海外游戏IP合作的全球爆款",
+    "watch": false
+  },
+  {
+    "id": 342,
+    "year": 2022,
+    "title": "铃芽之旅",
+    "genres": [
+      "电影",
+      "奇幻"
+    ],
+    "rank": "S",
+    "note": "把日本灾难记忆与公路冒险结合",
+    "watch": false
+  },
+  {
+    "id": 343,
+    "year": 2018,
+    "title": "擅长捉弄的高木同学",
+    "genres": [
+      "校园",
+      "爱情"
+    ],
+    "rank": "A",
+    "note": "轻甜日常恋爱动画代表",
+    "watch": false
+  },
+  {
+    "id": 344,
+    "year": 2023,
+    "title": "葬送的芙莉莲",
+    "genres": [
+      "奇幻",
+      "旅行"
+    ],
+    "rank": "S",
+    "note": "以时间、记忆与死亡刷新主流奇幻表达",
+    "watch": false
+  },
+  {
+    "id": 345,
+    "year": 2023,
+    "title": "药屋少女的呢喃",
+    "genres": [
+      "宫廷",
+      "推理"
+    ],
+    "rank": "S",
+    "note": "女性主角、药理与宫廷谜案的全球人气作",
+    "watch": false
+  },
+  {
+    "id": 346,
+    "year": 2023,
+    "title": "我推的孩子",
+    "genres": [
+      "演艺圈",
+      "悬疑"
+    ],
+    "rank": "S",
+    "note": "偶像产业、媒体与复仇叙事的现象作",
+    "watch": false
+  },
+  {
+    "id": 347,
+    "year": 2023,
+    "title": "天国大魔境",
+    "genres": [
+      "末世",
+      "悬疑"
+    ],
+    "rank": "S",
+    "note": "双线结构、身份谜团与废土世界佳作",
+    "watch": false
+  },
+  {
+    "id": 348,
+    "year": 2023,
+    "title": "跃动青春",
+    "genres": [
+      "校园",
+      "青春"
+    ],
+    "rank": "S",
+    "note": "自然细腻的人际关系与成长名作",
+    "watch": false
+  },
+  {
+    "id": 349,
+    "year": 2024,
+    "title": "迷宫饭",
+    "genres": [
+      "奇幻",
+      "美食"
+    ],
+    "rank": "S",
+    "note": "生态系统、冒险与美食逻辑的独特融合",
+    "watch": false
+  },
+  {
+    "id": 350,
+    "year": 2023,
+    "title": "不死少女的谋杀闹剧",
+    "genres": [
+      "推理",
+      "奇幻"
+    ],
+    "rank": "A",
+    "note": "古典怪物、推理与欧洲巡游的趣味组合",
+    "watch": false
+  },
+  {
+    "id": 351,
+    "year": 2023,
+    "title": "冥王 PLUTO",
+    "genres": [
+      "科幻",
+      "悬疑"
+    ],
+    "rank": "S",
+    "note": "浦泽直树重构手冢治虫的人性科幻名作",
+    "watch": false
+  },
+  {
+    "id": 352,
+    "year": 2023,
+    "title": "不死不幸",
+    "genres": [
+      "热血",
+      "能力战"
+    ],
+    "rank": "A",
+    "note": "规则系能力与命运反抗的少年作品",
+    "watch": false
+  },
+  {
+    "id": 353,
+    "year": 2023,
+    "title": "宝可梦 地平线",
+    "genres": [
+      "儿童",
+      "冒险"
+    ],
+    "rank": "A",
+    "note": "系列告别小智后开启的新世代",
+    "watch": false
+  },
+  {
+    "id": 354,
+    "year": 2023,
+    "title": "灌篮高手 THE FIRST SLAM DUNK",
+    "genres": [
+      "电影",
+      "运动"
+    ],
+    "rank": "S",
+    "note": "以新视角和CG运动演出复兴经典",
+    "watch": false
+  },
+  {
+    "id": 355,
+    "year": 2023,
+    "title": "你想活出怎样的人生",
+    "genres": [
+      "电影",
+      "奇幻"
+    ],
+    "rank": "S",
+    "note": "宫崎骏晚年关于死亡、继承与世界选择的作品",
+    "watch": false
+  },
+  {
+    "id": 356,
+    "year": 2023,
+    "title": "蓝色巨星",
+    "genres": [
+      "电影",
+      "音乐"
+    ],
+    "rank": "A",
+    "note": "爵士乐、梦想与演奏能量的动画电影",
+    "watch": false
+  },
+  {
+    "id": 357,
+    "year": 2024,
+    "title": "胆大党",
+    "genres": [
+      "科幻",
+      "灵异喜剧"
+    ],
+    "rank": "S",
+    "note": "高能作画、怪谈与青春爱情的全球新爆款",
+    "watch": false
+  },
+  {
+    "id": 358,
+    "year": 2024,
+    "title": "怪兽8号",
+    "genres": [
+      "热血",
+      "怪兽"
+    ],
+    "rank": "A",
+    "note": "成年主角与防卫队体系的主流少年动画",
+    "watch": false
+  },
+  {
+    "id": 359,
+    "year": 2024,
+    "title": "失忆投捕",
+    "genres": [
+      "运动",
+      "棒球"
+    ],
+    "rank": "A",
+    "note": "棒球、创伤与喜剧群像的口碑作",
+    "watch": false
+  },
+  {
+    "id": 360,
+    "year": 2024,
+    "title": "败犬女主太多了！",
+    "genres": [
+      "校园",
+      "恋爱喜剧"
+    ],
+    "rank": "A",
+    "note": "以“败犬”视角和地域质感成为季度热门",
+    "watch": false
+  },
+  {
+    "id": 361,
+    "year": 2024,
+    "title": "地。—关于地球的运动—",
+    "genres": [
+      "历史",
+      "思想"
+    ],
+    "rank": "S",
+    "note": "知识、信念与牺牲主题的严肃历史剧",
+    "watch": false
+  },
+  {
+    "id": 362,
+    "year": 2024,
+    "title": "终末列车去哪里？",
+    "genres": [
+      "公路",
+      "奇幻"
+    ],
+    "rank": "A",
+    "note": "末日少女旅行原创动画佳作",
+    "watch": false
+  },
+  {
+    "id": 363,
+    "year": 2024,
+    "title": "义妹生活",
+    "genres": [
+      "青春",
+      "生活"
+    ],
+    "rank": "B",
+    "note": "克制写实的共同生活与情感变化",
+    "watch": false
+  },
+  {
+    "id": 364,
+    "year": 2024,
+    "title": "蓦然回首",
+    "genres": [
+      "电影",
+      "创作"
+    ],
+    "rank": "S",
+    "note": "藤本树关于创作、友情与失去的短篇名作",
+    "watch": false
+  },
+  {
+    "id": 365,
+    "year": 2024,
+    "title": "排球少年！！垃圾场决战",
+    "genres": [
+      "电影",
+      "运动"
+    ],
+    "rank": "S",
+    "note": "长篇运动系列关键对决的院线成功",
+    "watch": false
+  },
+  {
+    "id": 366,
+    "year": 2024,
+    "title": "沙漠大冒险",
+    "genres": [
+      "奇幻",
+      "冒险"
+    ],
+    "rank": "A",
+    "note": "鸟山明作品的现代高质量动画化",
+    "watch": false
+  },
+  {
+    "id": 367,
+    "year": 2024,
+    "title": "乱马1/2（新版）",
+    "genres": [
+      "格斗",
+      "恋爱喜剧"
+    ],
+    "rank": "A",
+    "note": "经典高桥留美子作品的新世代重制",
+    "watch": false
+  },
+  {
+    "id": 368,
+    "year": 2024,
+    "title": "金肉人 完美超人始祖篇",
+    "genres": [
+      "格斗",
+      "热血"
+    ],
+    "rank": "A",
+    "note": "老牌摔角英雄系列的高质量复兴",
+    "watch": false
+  },
+  {
+    "id": 369,
+    "year": 2024,
+    "title": "青之箱",
+    "genres": [
+      "运动",
+      "恋爱"
+    ],
+    "rank": "A",
+    "note": "羽毛球、篮球与青春恋爱的主流新作",
+    "watch": false
+  },
+  {
+    "id": 370,
+    "year": 2024,
+    "title": "小市民系列",
+    "genres": [
+      "校园",
+      "推理"
+    ],
+    "rank": "A",
+    "note": "克制日常推理与复杂人物心理",
+    "watch": false
+  },
+  {
+    "id": 371,
+    "year": 2025,
+    "title": "章鱼哔的原罪",
+    "genres": [
+      "科幻",
+      "社会"
+    ],
+    "rank": "S",
+    "note": "以童话外观直面家庭暴力与儿童创伤",
+    "watch": true
+  },
+  {
+    "id": 372,
+    "year": 2025,
+    "title": "机动战士高达 GQuuuuuuX",
+    "genres": [
+      "机器人",
+      "科幻"
+    ],
+    "rank": "A",
+    "note": "以平行想象和新团队拓展高达受众",
+    "watch": true
+  },
+  {
+    "id": 373,
+    "year": 2025,
+    "title": "九龙大众浪漫",
+    "genres": [
+      "科幻",
+      "爱情"
+    ],
+    "rank": "A",
+    "note": "怀旧都市、身份谜团与成年爱情",
+    "watch": true
+  },
+  {
+    "id": 374,
+    "year": 2025,
+    "title": "光死去的夏天",
+    "genres": [
+      "乡村",
+      "恐怖"
+    ],
+    "rank": "A",
+    "note": "亲密关系、替代者与日式乡村恐怖",
+    "watch": true
+  },
+  {
+    "id": 375,
+    "year": 2025,
+    "title": "石纪元 Science Future",
+    "genres": [
+      "科幻",
+      "冒险"
+    ],
+    "rank": "A",
+    "note": "科学文明重建系列最终阶段",
+    "watch": true
+  },
+  {
+    "id": 376,
+    "year": 2025,
+    "title": "坂本日常",
+    "genres": [
+      "动作",
+      "喜剧"
+    ],
+    "rank": "A",
+    "note": "退休杀手与家庭生活的动作喜剧",
+    "watch": true
+  },
+  {
+    "id": 377,
+    "year": 2025,
+    "title": "薰香花朵凛然绽放",
+    "genres": [
+      "校园",
+      "爱情"
+    ],
+    "rank": "A",
+    "note": "温柔克制的跨校青春恋爱",
+    "watch": true
+  },
+  {
+    "id": 378,
+    "year": 2025,
+    "title": "魔男伊奇",
+    "genres": [
+      "奇幻",
+      "冒险"
+    ],
+    "rank": "B",
+    "note": "少年漫画新世代魔法冒险代表",
+    "watch": true
+  },
+  {
+    "id": 379,
+    "year": 2025,
+    "title": "一杆青空",
+    "genres": [
+      "运动",
+      "高尔夫"
+    ],
+    "rank": "B",
+    "note": "少女高尔夫成长动画",
+    "watch": true
+  },
+  {
+    "id": 380,
+    "year": 2025,
+    "title": "LAZARUS 拉撒路",
+    "genres": [
+      "科幻",
+      "动作"
+    ],
+    "rank": "A",
+    "note": "渡边信一郎主导的国际化原创科幻",
+    "watch": true
+  },
+  {
+    "id": 381,
+    "year": 2025,
+    "title": "凡尔赛玫瑰（电影新版）",
+    "genres": [
+      "电影",
+      "历史少女"
+    ],
+    "rank": "A",
+    "note": "经典少女漫画的当代动画电影重述",
+    "watch": true
+  },
+  {
+    "id": 382,
+    "year": 2025,
+    "title": "链锯人：蕾洁篇",
+    "genres": [
+      "电影",
+      "黑暗奇幻"
+    ],
+    "rank": "S",
+    "note": "热门系列关键情感篇章的院线化",
+    "watch": true
+  },
+  {
+    "id": 383,
+    "year": 2025,
+    "title": "鬼灭之刃 无限城篇",
+    "genres": [
+      "电影",
+      "热血"
+    ],
+    "rank": "S",
+    "note": "全球商业动画核心系列的终局院线篇章",
+    "watch": true
+  },
+  {
+    "id": 384,
+    "year": 2025,
+    "title": "哆啦A梦：大雄的绘画世界物语",
+    "genres": [
+      "电影",
+      "儿童冒险"
+    ],
+    "rank": "A",
+    "note": "国民系列周年阶段剧场版",
+    "watch": true
+  },
+  {
+    "id": 385,
+    "year": 2025,
+    "title": "名侦探柯南：独眼的残像",
+    "genres": [
+      "电影",
+      "推理"
+    ],
+    "rank": "A",
+    "note": "国民推理系列年度剧场版",
+    "watch": true
+  },
+  {
+    "id": 386,
+    "year": 2026,
+    "title": "葬送的芙莉莲 第二季",
+    "genres": [
+      "奇幻",
+      "旅行"
+    ],
+    "rank": "S",
+    "note": "现象级奇幻作品的持续篇章",
+    "watch": true
+  },
+  {
+    "id": 387,
+    "year": 2026,
+    "title": "咒术回战 死灭回游篇",
+    "genres": [
+      "热血",
+      "黑暗奇幻"
+    ],
+    "rank": "S",
+    "note": "全球热门系列进入大型规则战阶段",
+    "watch": true
+  },
+  {
+    "id": 388,
+    "year": 2026,
+    "title": "我推的孩子 第三季",
+    "genres": [
+      "演艺圈",
+      "悬疑"
+    ],
+    "rank": "A",
+    "note": "偶像产业与复仇线继续推进",
+    "watch": true
+  },
+  {
+    "id": 389,
+    "year": 2026,
+    "title": "地狱乐 第二季",
+    "genres": [
+      "黑暗奇幻",
+      "动作"
+    ],
+    "rank": "A",
+    "note": "生死探索与仙药岛世界进一步展开",
+    "watch": true
+  },
+  {
+    "id": 390,
+    "year": 2026,
+    "title": "Fate/strange Fake",
+    "genres": [
+      "奇幻",
+      "战争"
+    ],
+    "rank": "A",
+    "note": "Fate世界观中高密度英灵战争新篇",
+    "watch": true
+  },
+  {
+    "id": 391,
+    "year": 2026,
+    "title": "Trigun Stargaze",
+    "genres": [
+      "科幻",
+      "西部"
+    ],
+    "rank": "A",
+    "note": "经典科幻西部系列CG重构续篇",
+    "watch": true
+  },
+  {
+    "id": 392,
+    "year": 2026,
+    "title": "BEASTARS Final Season Part 2",
+    "genres": [
+      "社会寓言",
+      "CG"
+    ],
+    "rank": "A",
+    "note": "动物社会寓言系列最终收束",
+    "watch": true
+  },
+  {
+    "id": 393,
+    "year": 2026,
+    "title": "炎炎消防队 参之章 Part 2",
+    "genres": [
+      "热血",
+      "奇幻"
+    ],
+    "rank": "A",
+    "note": "大久保笃世界观走向终局",
+    "watch": true
+  }
+]

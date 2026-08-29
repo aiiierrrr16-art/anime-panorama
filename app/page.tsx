@@ -1,0 +1,30 @@
+"use client";
+import { useEffect, useMemo, useState } from "react";
+
+type Anime={id:number;year:number;title:string;genres:string[];rank:"S"|"A"|"B"|"C";note:string;watch:boolean};
+const decades=["全部","1960—79","1980s","1990s","2000s","2010s","2020s"];
+const colors=["blue","yellow","coral","mint"];
+const eraData=[["1963—79","工业建立","42","机器人、魔法少女与国民动画奠基"],["1980s","OVA爆发","44","机甲、电影与作者表达进入黄金期"],["1990s","全球传播","56","长篇IP与御宅文化走向世界"],["2000s","深夜崛起","78","数字制作与类型细分全面展开"],["2010s","现象浪潮","91","全球平台催生跨圈层代表作"],["2020s","同步时代","82","流媒体重塑传播速度与观看方式"]];
+function decadeMatch(year:number,label:string){if(label==="全部")return true;if(label==="1960—79")return year<1980;return Math.floor(year/10)*10===Number(label.slice(0,4));}
+
+export default function Home(){
+ const[anime,setAnime]=useState<Anime[]>([]),[query,setQuery]=useState(""),[decade,setDecade]=useState("全部"),[rank,setRank]=useState("全部级别"),[genre,setGenre]=useState("全部类型");const[limit,setLimit]=useState(18);
+ useEffect(()=>{fetch("/anime.json").then(r=>r.json()).then(setAnime)},[]);
+ const genres=useMemo(()=>{const c=new Map<string,number>();anime.forEach(i=>i.genres.forEach(t=>c.set(t,(c.get(t)||0)+1)));return[...c.entries()].sort((a,b)=>b[1]-a[1]).slice(0,18).map(x=>x[0])},[anime]);
+ const filtered=useMemo(()=>anime.filter(i=>`${i.title} ${i.note} ${i.genres.join(" ")}`.toLowerCase().includes(query.toLowerCase())&&decadeMatch(i.year,decade)&&(rank==="全部级别"||i.rank===rank)&&(genre==="全部类型"||i.genres.includes(genre))),[anime,query,decade,rank,genre]);
+ const reset=()=>{setQuery("");setDecade("全部");setRank("全部级别");setGenre("全部类型");setLimit(18)};
+ return <main>
+  <header className="site-header"><a className="brand" href="#top" aria-label="动画全景首页"><span>ANIME</span><b>PANORAMA</b></a><nav aria-label="主导航"><a className="active" href="#top">总览</a><a href="#archive">目录</a><a href="#method">方法</a></nav><a className="header-cta" href="#archive">开始探索 ↘</a></header>
+  <section className="hero" id="top"><div className="hero-copy"><p className="eyebrow">日本动画文化档案 · EST. 1963</p><h1>一张跨越<br/><em>六十年</em>的<br/>动画文化地图</h1><p className="hero-intro">从电视动画黎明，到OVA黄金期与流媒体时代。不是评分榜，而是按年代、类型与影响力整理的日本动画全景目录。</p><a className="button mint" href="#archive">浏览完整目录 <span>→</span></a></div><div className="hero-board" aria-label="目录关键统计"><div className="stat blue"><strong>393</strong><span>部／系列</span></div><div className="stat coral"><strong>64</strong><span>年跨度</span></div><div className="stat mint"><strong>70+</strong><span>类型标签</span></div><div className="stat yellow"><strong>S—C</strong><span>影响力分级</span></div><div className="stamp">ARCHIVE<br/>NO. 001</div></div></section>
+  <div className="marquee" aria-hidden="true"><div>国民动画 ★ 作者表达 ★ 类型革命 ★ 全球传播 ★ 时代记忆 ★ 国民动画 ★ 作者表达 ★ 类型革命 ★ 全球传播 ★ 时代记忆 ★</div></div>
+  <section className="era-section"><div className="section-heading"><span>01 / TIMELINE</span><h2>按时代进入动画史</h2><p>每个年代都不只是画质升级，而是受众、商业模式和表达边界的变化。</p></div><div className="era-grid">{eraData.map(([period,title,count,copy],index)=><button className={`era-card ${colors[index%4]}`} key={period} onClick={()=>{setDecade(index===0?"1960—79":period);document.querySelector("#archive")?.scrollIntoView({behavior:"smooth"})}}><span className="era-number">0{index+1}</span><b>{period}</b><h3>{title}</h3><p>{copy}</p><strong>{count} <small>部／系列</small></strong></button>)}</div></section>
+  <section className="archive" id="archive"><div className="section-heading light"><span>02 / THE ARCHIVE</span><h2>探索全部作品</h2><p>搜索作品名或入选理由，也可以组合年代、类型和影响力级别。</p></div>
+   <div className="filters"><label className="search"><span>⌕</span><input value={query} onChange={e=>{setQuery(e.target.value);setLimit(18)}} placeholder="搜索作品、类型或关键词…" aria-label="搜索目录"/></label><select value={genre} onChange={e=>{setGenre(e.target.value);setLimit(18)}} aria-label="按类型筛选"><option>全部类型</option>{genres.map(x=><option key={x}>{x}</option>)}</select><select value={rank} onChange={e=>{setRank(e.target.value);setLimit(18)}} aria-label="按级别筛选"><option>全部级别</option><option>S</option><option>A</option><option>B</option><option>C</option></select></div>
+   <div className="decade-tabs" aria-label="按年代筛选">{decades.map(x=><button className={decade===x?"selected":""} onClick={()=>{setDecade(x);setLimit(18)}} key={x}>{x}</button>)}</div><div className="results-bar"><b>{filtered.length}</b> 条结果 <button onClick={reset}>清除筛选 ×</button></div>
+   <div className="anime-grid">{filtered.slice(0,limit).map((item,index)=><article className={`anime-card ${colors[index%4]}`} key={item.id}><div className="card-top"><span>{String(item.id).padStart(3,"0")}</span><b className={`rank rank-${item.rank.toLowerCase()}`}>{item.rank}</b></div><div><p className="year">{item.year}{item.watch&&<i>观察中</i>}</p><h3>{item.title}</h3><div className="tags">{item.genres.map(t=><span key={t}>{t}</span>)}</div><p className="note">{item.note}</p></div></article>)}</div>
+   {!anime.length&&<p className="loading">正在展开档案…</p>}{!!anime.length&&!filtered.length&&<div className="empty"><strong>没有匹配项</strong><p>换一个关键词，或清除部分筛选条件。</p><button onClick={reset}>重置目录</button></div>}{limit<filtered.length&&<button className="load-more" onClick={()=>setLimit(limit+18)}>继续展开 · {filtered.length-limit} 条待查看 ↓</button>}
+  </section>
+  <section className="method" id="method"><div><span>03 / METHOD</span><h2>这不是<br/>评分排行榜。</h2></div><div className="method-copy"><p>入选依据综合日本本土认知、海外传播、商业影响、类型创新、创作者影响与长期口碑。系列原则上合并；独立历史意义明确的电影或版本单列。</p><div className="rank-list"><b>S 世界级／改变类型</b><b>A 现象级／一线名作</b><b>B 类型经典／圈层核心</b><b>C 特定时期的重要补充</b></div><small>2025—2026年的新作标记为“观察中”，历史地位将持续复核。</small></div></section>
+  <footer><div className="brand footer-brand"><span>ANIME</span><b>PANORAMA</b></div><p>日本知名动漫全景目录<br/>版本 2026.08.29</p><a href="#top">回到顶部 ↑</a></footer>
+ </main>
+}
